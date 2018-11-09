@@ -1,0 +1,1190 @@
+﻿Log file open, 10/28/18 16:27:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PaperNinja
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.229357
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.182s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5 CPU         750  @ 2.67GHz, GPU: AMD Radeon R9 200 Series
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.28-07.27.05:878][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.28-07.27.05:879][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.28-07.27.05:898][  0]LogHAL: Display: Platform has ~ 16 GB [17170485248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.28-07.27.05:898][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.28-07.27.05:898][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.28-07.27.05:899][  0]LogInit: Computer: DESKTOP-RO6AAOC
+[2018.10.28-07.27.05:899][  0]LogInit: User: whkjo
+[2018.10.28-07.27.05:899][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.28-07.27.05:899][  0]LogInit: High frequency timer resolution =3.124902 MHz
+[2018.10.28-07.27.05:899][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.10.28-07.27.05:899][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.28-07.27.05:899][  0]LogMemory: Process Physical Memory: 99.13 MB used, 99.13 MB peak
+[2018.10.28-07.27.05:899][  0]LogMemory: Process Virtual Memory: 82.84 MB used, 82.84 MB peak
+[2018.10.28-07.27.05:899][  0]LogMemory: Physical Memory: 5094.62 MB used,  11280.43 MB free, 16375.05 MB total
+[2018.10.28-07.27.05:899][  0]LogMemory: Virtual Memory: 4623.59 MB used,  11280.43 MB free, 134217728.00 MB total
+[2018.10.28-07.27.05:930][  0]LogInit: Using OS detected language (ko-KR).
+[2018.10.28-07.27.05:930][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.10.28-07.27.05:931][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.10.28-07.27.06:397][  0]LogStreaming: Display: Took  0.467s to InitEngineTextLocalization.
+[2018.10.28-07.27.06:397][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.28-07.27.06:473][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.28-07.27.06:473][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.28-07.27.06:863][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.28-07.27.06:863][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.28-07.27.06:889][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2018.10.28-07.27.06:889][  0]LogD3D11RHI:       3052/0/8187 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.10.28-07.27.06:892][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.28-07.27.06:892][  0]LogD3D11RHI:       0/0/8187 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.28-07.27.06:892][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.28-07.27.06:899][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.28-07.27.06:899][  0]LogD3D11RHI:     GPU DeviceId: 0x6798 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.28-07.27.06:899][  0]LogWindows: EnumDisplayDevices:
+[2018.10.28-07.27.06:900][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2018.10.28-07.27.06:902][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2018.10.28-07.27.06:904][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.28-07.27.06:906][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.28-07.27.06:908][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.28-07.27.06:910][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.28-07.27.06:911][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2018.10.28-07.27.06:911][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2018.10.28-07.27.06:911][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7 (internal:22.19.677.257, unified:22.19.677.257)
+[2018.10.28-07.27.06:911][  0]LogD3D11RHI:      Driver Date: 9-22-2017
+[2018.10.28-07.27.06:911][  0]LogRHI: Texture pool is 2136 MB (70% of 3052 MB)
+[2018.10.28-07.27.06:982][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.28-07.27.06:994][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.10.28-07.27.06:995][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (D:/Developer/Personal/unreal/PaperNinja/Intermediate/Shaders/WorkingDirectory/18000/).
+[2018.10.28-07.27.06:995][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/whkjo/AppData/Local/Temp/UnrealShaderWorkingDir/01128D0C40BA119137E311A1F79F49C6/'.
+[2018.10.28-07.27.07:500][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.28-07.27.07:522][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.28-07.27.07:544][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.28-07.27.07:566][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.28-07.27.07:589][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.28-07.27.07:610][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.28-07.27.07:632][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.28-07.27.07:655][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.28-07.27.07:666][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.28-07.27.07:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-07.27.07:792][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.28-07.27.07:869][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.28-07.27.07:869][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.28-07.27.07:906][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.28-07.27.07:906][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.28-07.27.07:926][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.28-07.27.07:946][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.28-07.27.07:966][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.28-07.27.07:987][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.28-07.27.08:001][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.28-07.27.08:001][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.28-07.27.08:109][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.28-07.27.08:109][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.28-07.27.08:110][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.28-07.27.09:462][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.28-07.27.09:548][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/whkjo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.28-07.27.09:548][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/whkjo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.28-07.27.09:548][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Developer/Personal/unreal/PaperNinja/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.28-07.27.09:549][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.28-07.27.09:549][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Developer/Personal/unreal/PaperNinja/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.28-07.27.09:549][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.28-07.27.09:566][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.28-07.27.09:579][  0]LogDerivedDataCache: Using Local data cache path C:/Users/whkjo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.28-07.27.09:579][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.28-07.27.09:579][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.28-07.27.09:606][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.28-07.27.09:608][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.28-07.27.09:608][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.28-07.27.09:714][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2018.10.28-07.27.10:266][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.28-07.27.10:484][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.28-07.27.10:491][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.28-07.27.10:491][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.28-07.27.10:491][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.28-07.27.10:491][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.28-07.27.10:519][  0]LogNetVersion: PaperNinja 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2695055024)
+[2018.10.28-07.27.11:271][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.143768 seconds
+[2018.10.28-07.27.11:279][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.28-07.27.11:279][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.28-07.27.11:279][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.28-07.27.12:674][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.28-07.27.12:708][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.28-07.27.12:922][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2018.10.28-07.27.12:922][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2018.10.28-07.27.12:925][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2018.10.28-07.27.12:927][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2018.10.28-07.27.13:151][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.28-07.27.13:334][  0]LogOcInput: OculusInput pre-init called
+[2018.10.28-07.27.13:427][  0]LogEngine: Initializing Engine...
+[2018.10.28-07.27.13:428][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.28-07.27.13:430][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.28-07.27.13:430][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.28-07.27.13:431][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.28-07.27.13:431][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.28-07.27.13:754][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.28-07.27.13:776][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.28-07.27.13:833][  0]LogInit: XAudio2 using '스피커(SB Audigy)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.28-07.27.13:899][  0]LogInit: FAudioDevice initialized.
+[2018.10.28-07.27.13:899][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.28-07.27.14:059][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/whkjo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.28-07.27.14:073][  0]LogInit: Texture streaming: Enabled
+[2018.10.28-07.27.14:104][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.28-07.27.14:127][  0]LogInit: Transaction tracking system initialized
+[2018.10.28-07.27.14:168][  0]BlueprintLog: New page: 에디터 로드
+[2018.10.28-07.27.14:304][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.10.28-07.27.14:740][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.28-07.27.14:740][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.28-07.27.14:741][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.28-07.27.14:742][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.28-07.27.14:742][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.28-07.27.14:742][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.28-07.27.14:742][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.28-07.27.14:947][  0]LogFileCache: Scanning file cache for directory 'D:/Developer/Personal/unreal/PaperNinja/Content/' took 0.02s
+[2018.10.28-07.27.14:947][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2018.10.28-07.27.14:962][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.20/FeaturePacks/StarterContent.upack)
+[2018.10.28-07.27.14:982][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.10.28-07.27.14:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.10.28-07.27.15:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.10.28-07.27.15:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.10.28-07.27.15:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.10.28-07.27.15:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.10.28-07.27.15:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.10.28-07.27.15:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.10.28-07.27.15:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.10.28-07.27.15:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.10.28-07.27.15:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.10.28-07.27.15:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.10.28-07.27.15:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.10.28-07.27.15:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.10.28-07.27.15:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.10.28-07.27.15:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.10.28-07.27.15:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.10.28-07.27.15:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.10.28-07.27.15:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Fire01.uasset"
+[2018.10.28-07.27.15:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.10.28-07.27.15:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.10.28-07.27.15:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.10.28-07.27.15:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Light01.uasset"
+[2018.10.28-07.27.15:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.10.28-07.27.15:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Light02.uasset"
+[2018.10.28-07.27.15:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.10.28-07.27.15:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.10.28-07.27.15:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.10.28-07.27.15:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.10.28-07.27.15:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.10.28-07.27.15:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.10.28-07.27.15:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.10.28-07.27.15:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.10.28-07.27.15:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.10.28-07.27.15:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Steam01.uasset"
+[2018.10.28-07.27.15:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.10.28-07.27.15:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.10.28-07.27.15:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.10.28-07.27.15:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.10.28-07.27.15:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.10.28-07.27.15:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.10.28-07.27.15:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.10.28-07.27.15:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.10.28-07.27.15:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.10.28-07.27.15:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.10.28-07.27.15:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.10.28-07.27.15:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.10.28-07.27.15:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.10.28-07.27.15:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.10.28-07.27.15:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.10.28-07.27.15:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.10.28-07.27.15:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.10.28-07.27.16:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.10.28-07.27.16:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.10.28-07.27.16:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.10.28-07.27.16:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.10.28-07.27.16:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.10.28-07.27.16:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Maps/StarterMap.umap"
+[2018.10.28-07.27.16:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.10.28-07.27.16:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.10.28-07.27.16:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.10.28-07.27.16:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.10.28-07.27.16:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.10.28-07.27.16:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.10.28-07.27.16:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.10.28-07.27.16:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.10.28-07.27.16:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.10.28-07.27.16:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.10.28-07.27.16:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.10.28-07.27.16:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.10.28-07.27.16:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.10.28-07.27.16:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.10.28-07.27.16:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.10.28-07.27.16:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.10.28-07.27.16:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.10.28-07.27.16:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.10.28-07.27.16:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.10.28-07.27.16:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.10.28-07.27.16:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.10.28-07.27.16:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.10.28-07.27.16:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.10.28-07.27.16:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.10.28-07.27.16:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.10.28-07.27.16:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.10.28-07.27.16:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.10.28-07.27.16:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.10.28-07.27.16:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.10.28-07.27.16:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.10.28-07.27.16:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.10.28-07.27.17:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.10.28-07.27.17:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.10.28-07.27.17:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.10.28-07.27.17:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.10.28-07.27.17:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.10.28-07.27.17:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.10.28-07.27.17:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.10.28-07.27.17:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.10.28-07.27.17:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.10.28-07.27.17:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.10.28-07.27.17:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.10.28-07.27.17:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.10.28-07.27.17:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.10.28-07.27.17:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.10.28-07.27.17:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.10.28-07.27.17:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.10.28-07.27.17:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.10.28-07.27.17:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.10.28-07.27.17:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.10.28-07.27.17:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.10.28-07.27.17:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.10.28-07.27.17:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.10.28-07.27.17:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.10.28-07.27.17:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.10.28-07.27.17:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.10.28-07.27.17:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.10.28-07.27.17:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.10.28-07.27.17:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.10.28-07.27.17:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.10.28-07.27.17:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.10.28-07.27.17:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.10.28-07.27.17:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.10.28-07.27.17:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.10.28-07.27.17:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.10.28-07.27.17:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_Door.uasset"
+[2018.10.28-07.27.17:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.10.28-07.27.17:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.10.28-07.27.17:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.10.28-07.27.17:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.10.28-07.27.17:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.10.28-07.27.17:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.10.28-07.27.17:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.10.28-07.27.17:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.10.28-07.27.17:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.10.28-07.27.17:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.10.28-07.27.17:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.10.28-07.27.17:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.10.28-07.27.17:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.10.28-07.27.17:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.10.28-07.27.17:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.10.28-07.27.17:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.10.28-07.27.17:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.10.28-07.27.17:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.10.28-07.27.17:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.10.28-07.27.17:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.10.28-07.27.17:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.10.28-07.27.17:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.10.28-07.27.17:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.10.28-07.27.17:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.10.28-07.27.17:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.10.28-07.27.17:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.10.28-07.27.17:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.10.28-07.27.17:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.10.28-07.27.17:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.10.28-07.27.17:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.10.28-07.27.17:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.10.28-07.27.17:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.10.28-07.27.17:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.10.28-07.27.18:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.10.28-07.27.18:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.10.28-07.27.18:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.10.28-07.27.18:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.10.28-07.27.18:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.10.28-07.27.18:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.10.28-07.27.18:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.10.28-07.27.18:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.10.28-07.27.18:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.10.28-07.27.18:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.10.28-07.27.18:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.10.28-07.27.18:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.10.28-07.27.18:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.10.28-07.27.18:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.10.28-07.27.18:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.10.28-07.27.18:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.10.28-07.27.18:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.10.28-07.27.18:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.10.28-07.27.18:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.10.28-07.27.18:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.10.28-07.27.18:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.10.28-07.27.18:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.10.28-07.27.19:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.10.28-07.27.19:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.10.28-07.27.19:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.10.28-07.27.19:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.10.28-07.27.19:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.10.28-07.27.19:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.10.28-07.27.19:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.10.28-07.27.19:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.10.28-07.27.19:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.10.28-07.27.19:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.10.28-07.27.19:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.10.28-07.27.19:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.10.28-07.27.19:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.10.28-07.27.19:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.10.28-07.27.19:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.10.28-07.27.19:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.10.28-07.27.19:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.10.28-07.27.19:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.10.28-07.27.19:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.10.28-07.27.19:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.10.28-07.27.20:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.10.28-07.27.20:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.10.28-07.27.20:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.10.28-07.27.20:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.10.28-07.27.20:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.10.28-07.27.20:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.10.28-07.27.20:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.10.28-07.27.20:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.10.28-07.27.20:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.10.28-07.27.20:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.10.28-07.27.20:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.10.28-07.27.20:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.10.28-07.27.20:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.10.28-07.27.20:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.10.28-07.27.20:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.10.28-07.27.20:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.10.28-07.27.20:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.10.28-07.27.20:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.10.28-07.27.20:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.10.28-07.27.21:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.10.28-07.27.21:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.10.28-07.27.21:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.10.28-07.27.21:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.10.28-07.27.21:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.10.28-07.27.21:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.10.28-07.27.21:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.10.28-07.27.21:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.10.28-07.27.21:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.10.28-07.27.21:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.10.28-07.27.21:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.10.28-07.27.22:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.10.28-07.27.22:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.10.28-07.27.22:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.10.28-07.27.22:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.10.28-07.27.22:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.10.28-07.27.22:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.10.28-07.27.22:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.10.28-07.27.22:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.10.28-07.27.22:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.10.28-07.27.22:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.10.28-07.27.22:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.10.28-07.27.22:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.10.28-07.27.23:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.10.28-07.27.23:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.10.28-07.27.23:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.10.28-07.27.23:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.10.28-07.27.23:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.10.28-07.27.23:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.10.28-07.27.23:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.10.28-07.27.23:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.10.28-07.27.23:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.10.28-07.27.23:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.10.28-07.27.23:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.10.28-07.27.23:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.10.28-07.27.23:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.10.28-07.27.23:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.10.28-07.27.23:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.10.28-07.27.23:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.10.28-07.27.23:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.10.28-07.27.23:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.10.28-07.27.23:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.10.28-07.27.23:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.10.28-07.27.23:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.10.28-07.27.24:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.10.28-07.27.24:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.10.28-07.27.24:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.10.28-07.27.24:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.10.28-07.27.24:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.10.28-07.27.24:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.10.28-07.27.24:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.10.28-07.27.24:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.10.28-07.27.25:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.10.28-07.27.25:294][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.10.28-07.27.25:385][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.10.28-07.27.25:432][  0]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/Floor_400x4003913A2894C4A2D5208F762976533FC0A.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.10.28-07.27.25:440][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.10.28-07.27.25:446][  0]Cmd: MAP LOAD FILE="D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.28-07.27.25:447][  0]LightingResults: New page: 라이팅 빌드
+[2018.10.28-07.27.25:451][  0]MapCheck: New page: 맵 체크
+[2018.10.28-07.27.25:451][  0]LightingResults: New page: 라이팅 빌드
+[2018.10.28-07.27.26:686][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.10.28-07.27.26:700][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.28-07.27.26:730][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.28-07.27.26:898][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 168.154ms.
+[2018.10.28-07.27.26:898][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.452
+[2018.10.28-07.27.27:491][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-07.27.27:507][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-07.27.27:518][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-07.27.27:527][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-07.27.27:694][  0]LogCollectionManager: Loaded 0 collections in 0.003120 seconds
+[2018.10.28-07.27.27:799][  0]LogFileCache: Scanning file cache for directory 'D:/Developer/Personal/unreal/PaperNinja/Saved/Collections/' took 0.01s
+[2018.10.28-07.27.27:799][  0]LogFileCache: Scanning file cache for directory 'D:/Developer/Personal/unreal/PaperNinja/Content/Developers/whkjo/Collections/' took 0.01s
+[2018.10.28-07.27.27:799][  0]LogFileCache: Scanning file cache for directory 'D:/Developer/Personal/unreal/PaperNinja/Content/Collections/' took 0.01s
+[2018.10.28-07.27.27:799][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.28-07.27.27:816][  0]LogContentBrowser: Native class hierarchy populated in 0.0151 seconds. Added 2572 classes and 603 folders.
+[2018.10.28-07.27.27:840][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.28-07.27.29:027][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.28-07.27.29:148][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.10.28-07.27.29:240][  0]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.28-07.27.29:246][  0]LogSlate: Took 0.003765 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.10.28-07.27.29:251][  0]LogSlate: Took 0.003743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2018.10.28-07.27.29:251][  0]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.28-07.27.29:267][  0]LogSlate: Took 0.006900 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.28-07.27.29:489][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.28-07.27.29:566][  0]LogSlate: Took 0.008166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.28-07.27.29:691][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.28-07.27.29:691][  0]LogLoad: (Engine Initialization) Total time: 26.52 seconds
+[2018.10.28-07.27.29:691][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.28-07.27.29:776][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.28-07.27.30:126][  2]LogAssetRegistry: Asset discovery search completed in 20.4334 seconds
+[2018.10.28-07.27.30:133][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.28-07.27.30:133][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000121 seconds (updated 0 objects)
+[2018.10.28-07.52.26:708][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-07.52.36:993][837]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.28-07.52.37:804][837]LogTexture: Display: 텍스처 빌드: T_Coin01_D (AutoDXT, 512X512)
+[2018.10.28-07.52.37:809][837]LogMaterial: Display: Missing cached shader map for material M_Coin, compiling. 
+[2018.10.28-07.52.37:891][837]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.28-07.52.37:891][837]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.28-07.52.37:892][837]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.28-07.52.37:892][837]LogStaticMesh: SM_Coin 스태틱 메시 빌드중...
+[2018.10.28-07.52.37:915][837]LogStaticMesh: Built static mesh [0.02s] /Game/Props/SM_Coin.SM_Coin
+[2018.10.28-07.52.37:962][837]LogAIModule: Creating AISystem for world Test_Trigger
+[2018.10.28-07.52.37:973][837]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Test/Test_Trigger.Test_Trigger
+[2018.10.28-07.52.38:006][837]Cmd: MAP LOAD FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Test/Test_Trigger.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.28-07.52.38:006][837]LightingResults: New page: 라이팅 빌드
+[2018.10.28-07.52.38:007][837]LoadErrors: New page: 맵 로드중: Test_Trigger.umap
+[2018.10.28-07.52.38:009][837]MapCheck: New page: 맵 체크
+[2018.10.28-07.52.38:009][837]LightingResults: New page: 라이팅 빌드
+[2018.10.28-07.52.38:066][837]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.28-07.52.38:125][837]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.28-07.52.38:308][837]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 182.51ms.
+[2018.10.28-07.52.38:309][837]LogFileHelpers: Loading map 'Test_Trigger' took 0.307
+[2018.10.28-07.52.38:380][838]LogSlate: Took 0.004952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.10.28-07.52.42:271][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-07.52.42:374][194]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.10.28-07.52.42:394][194]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-07.52.42:396][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.28-07.52.42:414][194]PIE: New page: PIE 세션: Test_Trigger (2018. 10. 29. 오전 1:52:42)
+[2018.10.28-07.52.42:414][194]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_Test_Trigger
+[2018.10.28-07.52.42:424][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010030s)
+[2018.10.28-07.52.42:425][194]LogAIModule: Creating AISystem for world Test_Trigger
+[2018.10.28-07.52.42:426][194]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2018.10.28-07.52.42:426][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/Test_Trigger.Test_Trigger to /Game/Maps/Test/UEDPIE_0_Test_Trigger.Test_Trigger (0.011910s)
+[2018.10.28-07.52.42:504][194]LogInit: XAudio2 using '스피커(SB Audigy)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.28-07.52.42:557][194]LogInit: FAudioDevice initialized.
+[2018.10.28-07.52.42:684][194]LogLoad: Game class is 'PNGameMode_C'
+[2018.10.28-07.52.42:697][194]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_Test_Trigger.Test_Trigger up for play (max tick rate 0) at 2018.10.28-16.52.42
+[2018.10.28-07.52.42:701][194]LogWorld: Bringing up level for play took: 0.006106
+[2018.10.28-07.52.42:739][194]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.10.28-07.52.42:759][194]PIE: /Game/Maps/Test/UEDPIE_0_Test_Trigger 에 대한 에디터에서 플레이 시작 시간: 0.921
+[2018.10.28-07.52.42:759][194]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-07.52.42:814][195]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098794 > MaxSimulationTimeStep (0.050) for 'PNPlayerPawn_C_0', movement 'Walking'
+[2018.10.28-07.52.48:439][808]LogBlueprintUserMessages: [PNPlayerPawn_C_0] Died!
+[2018.10.28-07.52.54:449][459]LogBlueprintUserMessages: [PNPlayerPawn_C_0] Died!
+[2018.10.28-07.52.58:440][889]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-07.52.58:441][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-07.52.58:479][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.28-07.52.58:479][889]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-07.52.58:509][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-07.52.58:540][890]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.10.28-07.53.19:655][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-07.53.28:831][576]LogEditorViewport: Clicking on Actor (LMB): PNTrapFireActor_C (PNTrapFireActor)
+[2018.10.28-07.53.30:638][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-07.53.35:265][ 84]LogSlate: Took 0.006668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.28-07.53.36:896][219]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PNTrapFireActor.PNTrapFireActor
+[2018.10.28-07.53.37:703][219]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.10.28-07.53.39:188][219]LogSlate: Took 0.006539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.28-07.53.42:019][414]LogSlate: Window 'PNTrapFireActor' being destroyed
+[2018.10.28-08.01.06:927][ 36]Cmd: DELETE
+[2018.10.28-08.01.06:927][ 36]Cmd: ACTOR DELETE
+[2018.10.28-08.01.06:943][ 36]LogEditorActor: Deleted Actor: PNTrapFireActor_C
+[2018.10.28-08.01.06:986][ 36]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2018.10.28-08.01.08:520][207]LogEditorViewport: Clicking on Actor (LMB): PNTrapFireActor_C (PNTrapFireActor)
+[2018.10.28-08.01.11:086][450]Cmd: TRANSACTION UNDO
+[2018.10.28-08.01.11:086][450]LogEditorTransaction: Undo 액터 이동
+[2018.10.28-08.03.24:006][369]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/Test_Trigger_Auto1F5646F9648B7A9735BBB8FB365269724.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Test/Test_Trigger_Auto1.umap'
+[2018.10.28-08.03.24:014][369]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test/Test_Trigger' took 0.291
+[2018.10.28-08.03.24:014][369]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.291
+[2018.10.28-08.08.38:804][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.08.53:992][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.28-08.10.33:953][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.10.44:793][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.10.47:360][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.10.48:203][953]LogTexture: Display: 텍스처 빌드: T_Scroll_D (AutoDXT, 512X512)
+[2018.10.28-08.10.48:203][953]LogStaticMesh: SM_Scroll 스태틱 메시 빌드중...
+[2018.10.28-08.10.48:247][953]LogStaticMesh: Built static mesh [0.04s] /Game/Props/SM_Scroll.SM_Scroll
+[2018.10.28-08.10.48:255][953]LogMaterial: Display: Missing cached shader map for material M_Scroll, compiling. 
+[2018.10.28-08.10.48:284][953]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.28-08.10.48:284][953]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.28-08.10.48:284][953]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.28-08.10.48:298][953]LogActorFactory: Actor Factory created SM_Scroll
+[2018.10.28-08.10.50:552][146]LogActorFactory: Actor Factory created SM_Scroll
+[2018.10.28-08.10.51:640][241]LogEditorViewport: Clicking on Actor (LMB): PNPPickupCoinActor_C (PNPPickupCoinActor)
+[2018.10.28-08.10.53:215][385]Cmd: DELETE
+[2018.10.28-08.10.53:215][385]Cmd: ACTOR DELETE
+[2018.10.28-08.10.53:218][385]LogEditorActor: Deleted Actor: PNPPickupCoinActor_C
+[2018.10.28-08.10.53:257][385]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.10.28-08.10.54:956][509]Cmd: TRANSACTION UNDO
+[2018.10.28-08.10.54:956][509]LogEditorTransaction: Undo 액터 삭제
+[2018.10.28-08.10.55:572][545]Cmd: TRANSACTION UNDO
+[2018.10.28-08.10.55:572][545]LogEditorTransaction: Undo 액터 클릭
+[2018.10.28-08.10.57:212][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.11.13:405][923]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PNPPickupCoinActor.PNPPickupCoinActor
+[2018.10.28-08.11.18:185][411]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PNPPickupCoinActor.PNPPickupCoinActor
+[2018.10.28-08.12.03:173][346]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2018.10.28-08.12.11:518][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.14.16:466][401]LogActorFactory: Actor Factory created SM_Coin
+[2018.10.28-08.14.18:341][583]LogActorFactory: Actor Factory created SM_Coin
+[2018.10.28-08.14.20:913][829]Cmd: DELETE
+[2018.10.28-08.14.20:913][829]Cmd: ACTOR DELETE
+[2018.10.28-08.14.20:916][829]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.28-08.14.20:974][829]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2018.10.28-08.14.23:091][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.14.23:827][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.28-08.14.24:338][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scroll)
+[2018.10.28-08.14.26:458][320]LogEditorViewport: Clicking on Actor (LMB): PNPPickupCoinActor_C (PNPPickupCoinActor)
+[2018.10.28-08.14.27:296][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.14.32:602][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.28-08.14.32:979][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.15.35:833][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.28-08.15.43:222][616]LogEditorViewport: Clicking on Actor (LMB): PNPPickupCoinActor_C (PNPPickupCoinActor)
+[2018.10.28-08.15.44:060][690]LogEditorViewport: Clicking on Actor (LMB): PNPPickupCoinActor_C (PNPPickupCoinActor)
+[2018.10.28-08.15.45:908][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.17.02:059][710]BlueprintLog: New page: PNPPickupCoinActor 컴파일
+[2018.10.28-08.17.07:700][199]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.10.28-08.17.07:726][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-08.17.07:727][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.28-08.17.07:727][199]PIE: New page: PIE 세션: Test_Trigger (2018. 10. 29. 오전 2:17:07)
+[2018.10.28-08.17.07:727][199]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_Test_Trigger
+[2018.10.28-08.17.07:731][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004282s)
+[2018.10.28-08.17.07:732][199]LogAIModule: Creating AISystem for world Test_Trigger
+[2018.10.28-08.17.07:732][199]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2018.10.28-08.17.07:732][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/Test_Trigger.Test_Trigger to /Game/Maps/Test/UEDPIE_0_Test_Trigger.Test_Trigger (0.005349s)
+[2018.10.28-08.17.07:808][199]LogInit: XAudio2 using '스피커(SB Audigy)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.28-08.17.07:858][199]LogInit: FAudioDevice initialized.
+[2018.10.28-08.17.07:892][199]LogLoad: Game class is 'PNGameMode_C'
+[2018.10.28-08.17.07:893][199]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_Test_Trigger.Test_Trigger up for play (max tick rate 0) at 2018.10.28-17.17.07
+[2018.10.28-08.17.07:894][199]LogWorld: Bringing up level for play took: 0.001273
+[2018.10.28-08.17.07:908][199]PIE: /Game/Maps/Test/UEDPIE_0_Test_Trigger 에 대한 에디터에서 플레이 시작 시간: 0.07
+[2018.10.28-08.17.07:908][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-08.17.14:984][980]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-08.17.14:984][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-08.17.15:028][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.28-08.17.15:028][980]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-08.17.15:066][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-08.17.15:101][981]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.10.28-08.17.54:150][426]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.28-08.17.54:447][426]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/Test_Trigger_Auto2F5677675442CF6D9BFA376975F3EF702.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Test/Test_Trigger_Auto2.umap'
+[2018.10.28-08.17.54:452][426]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test/Test_Trigger' took 0.288
+[2018.10.28-08.17.54:452][426]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.288
+[2018.10.28-08.17.54:454][426]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PNPPickupCoinActor] ([1] browsable assets)...
+[2018.10.28-08.17.54:478][426]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PNPPickupCoinActor.PNPPickupCoinActor]
+[2018.10.28-08.17.54:478][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PNPPickupCoinActor]
+[2018.10.28-08.17.54:525][426]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNPPickupCoinActor_Auto2CE649BDE488DCAD9BA4D778C63BC6C67.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Blueprints/PNPPickupCoinActor_Auto2.uasset'
+[2018.10.28-08.17.54:527][426]LogFileHelpers: Auto-saving content packages took 0.074
+[2018.10.28-08.21.28:903][825]LogSlate: Window '부모 클래스 선택' being destroyed
+[2018.10.28-08.21.46:405][426]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PNPickupScroll.PNPickupScroll
+[2018.10.28-08.22.46:549][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.28-08.22.54:572][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.28-08.23.00:740][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.28-08.23.09:960][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.23.16:543][769]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.10.28-08.23.18:337][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.27.55:029][ 29]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test/Test_Trigger' took 0.033
+[2018.10.28-08.27.55:031][ 29]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PNPickupScroll] ([1] browsable assets)...
+[2018.10.28-08.27.55:031][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PNPickupScroll]
+[2018.10.28-08.27.55:032][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PNPickupScroll" FILE="D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Blueprints/PNPickupScroll_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.10.28-08.27.55:051][ 29]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNPickupScroll_Auto33A3721D049949E65822289A61EBA0B88.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Blueprints/PNPickupScroll_Auto3.uasset'
+[2018.10.28-08.27.55:052][ 29]LogFileHelpers: Auto-saving content packages took 0.023
+[2018.10.28-08.36.39:335][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.36.42:254][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.28-08.36.42:598][310]LogEditorTransaction: Undo 컴포넌트 변수 이름변경
+[2018.10.28-08.36.42:888][339]LogEditorTransaction: Undo Add Component
+[2018.10.28-08.38.12:257][345]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test/Test_Trigger' took 0.032
+[2018.10.28-08.38.12:260][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PNPickupScroll] ([1] browsable assets)...
+[2018.10.28-08.38.12:280][345]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PNPickupScroll.PNPickupScroll]
+[2018.10.28-08.38.12:280][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PNPickupScroll]
+[2018.10.28-08.38.12:280][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PNPickupScroll" FILE="D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Blueprints/PNPickupScroll_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.10.28-08.38.12:311][345]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNPickupScroll_Auto43894B6A74BF797DC98221C9BB70138B7.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Blueprints/PNPickupScroll_Auto4.uasset'
+[2018.10.28-08.38.12:313][345]LogFileHelpers: Auto-saving content packages took 0.054
+[2018.10.28-08.39.05:071][941]LogActorFactory: Actor Factory created SM_Coin
+[2018.10.28-08.39.05:834][ 11]LogActorFactory: Actor Factory created SM_Coin
+[2018.10.28-08.39.06:842][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.39.09:575][260]LogSlate: Window '경로 선택' being destroyed
+[2018.10.28-08.39.09:694][260]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/SM_Coin_Blueprint.SM_Coin_Blueprint
+[2018.10.28-08.39.25:057][352]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.28-08.39.26:627][493]LogEditorActor: Deleted Actor: SM_Coin_Blueprint_C
+[2018.10.28-08.39.26:664][493]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.10.28-08.39.30:778][680]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.28-08.39.30:786][680]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.28-08.39.30:865][680]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.28-08.39.30:944][680]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.28-08.45.33:356][233]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire4)
+[2018.10.28-08.45.34:473][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.46.03:488][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.46.19:013][858]Cmd: TRANSACTION UNDO
+[2018.10.28-08.46.19:013][858]LogEditorTransaction: Undo 컴포넌트에 클릭 (트리 뷰)
+[2018.10.28-08.46.20:253][950]Cmd: TRANSACTION UNDO
+[2018.10.28-08.46.20:253][950]LogEditorTransaction: Undo 액터 클릭
+[2018.10.28-08.46.21:536][ 45]Cmd: TRANSACTION UNDO
+[2018.10.28-08.46.21:536][ 45]LogEditorTransaction: Undo 액터 클릭
+[2018.10.28-08.46.21:996][ 77]Cmd: TRANSACTION UNDO
+[2018.10.28-08.46.21:996][ 77]LogEditorTransaction: Undo 액터 생성
+[2018.10.28-08.46.57:309][608]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PNPickupScroll.PNPickupScroll
+[2018.10.28-08.46.59:812][754]LogSlate: Window 'PNPickupScroll*' being destroyed
+[2018.10.28-08.47.11:223][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.48.50:948][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.49.08:813][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.50.21:012][769]BlueprintLog: New page: PNPickupScroll 컴파일
+[2018.10.28-08.50.29:238][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scroll)
+[2018.10.28-08.50.30:904][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.50.31:791][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.28-08.50.31:825][770]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.10.28-08.50.36:133][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-08.50.36:241][109]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.10.28-08.50.36:269][109]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-08.50.36:269][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.28-08.50.36:269][109]PIE: New page: PIE 세션: Test_Trigger (2018. 10. 29. 오전 2:50:36)
+[2018.10.28-08.50.36:269][109]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_Test_Trigger
+[2018.10.28-08.50.36:274][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004398s)
+[2018.10.28-08.50.36:275][109]LogAIModule: Creating AISystem for world Test_Trigger
+[2018.10.28-08.50.36:275][109]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2018.10.28-08.50.36:275][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/Test_Trigger.Test_Trigger to /Game/Maps/Test/UEDPIE_0_Test_Trigger.Test_Trigger (0.005499s)
+[2018.10.28-08.50.36:355][109]LogInit: XAudio2 using '스피커(SB Audigy)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.28-08.50.36:405][109]LogInit: FAudioDevice initialized.
+[2018.10.28-08.50.36:434][109]LogLoad: Game class is 'PNGameMode_C'
+[2018.10.28-08.50.36:436][109]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_Test_Trigger.Test_Trigger up for play (max tick rate 0) at 2018.10.28-17.50.36
+[2018.10.28-08.50.36:437][109]LogWorld: Bringing up level for play took: 0.001325
+[2018.10.28-08.50.36:451][109]PIE: /Game/Maps/Test/UEDPIE_0_Test_Trigger 에 대한 에디터에서 플레이 시작 시간: 0.613
+[2018.10.28-08.50.36:451][109]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-08.50.41:402][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-08.50.41:402][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-08.50.41:442][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.28-08.50.41:442][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-08.50.41:478][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-08.50.41:504][681]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.10.28-08.51.24:558][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.28-08.51.24:847][828]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/Test_Trigger_Auto5993B7AA8439B9EE3C103789C11C4139B.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Test/Test_Trigger_Auto5.umap'
+[2018.10.28-08.51.24:851][828]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test/Test_Trigger' took 0.279
+[2018.10.28-08.51.24:851][828]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.279
+[2018.10.28-08.51.24:854][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PNPickupScroll] ([1] browsable assets)...
+[2018.10.28-08.51.24:877][828]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PNPickupScroll.PNPickupScroll]
+[2018.10.28-08.51.24:877][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PNPickupScroll]
+[2018.10.28-08.51.24:877][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PNPickupScroll" FILE="D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Blueprints/PNPickupScroll_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.10.28-08.51.24:916][828]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNPickupScroll_Auto5FAE517764EF0CC310B6E3D879EA25486.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Blueprints/PNPickupScroll_Auto5.uasset'
+[2018.10.28-08.51.24:918][828]LogFileHelpers: Auto-saving content packages took 0.065
+[2018.10.28-08.53.27:153][551]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.28-08.56.08:157][120]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire4)
+[2018.10.28-09.01.25:360][566]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/Test_Trigger_Auto62CD2E01948B55C03A5AD47993BCFF6F7.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Test/Test_Trigger_Auto6.umap'
+[2018.10.28-09.01.25:368][566]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test/Test_Trigger' took 0.345
+[2018.10.28-09.01.25:368][566]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.345
+[2018.10.28-09.46.02:961][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.28-09.46.05:605][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.28-09.46.06:773][  7]LogEditorViewport: Clicking on Actor (LMB): PNPickupScroll_C (PNPickupScroll)
+[2018.10.28-09.56.30:720][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-09.57.03:269][ 38]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.28-09.57.03:445][ 42]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.PaperNinja
+[2018.10.28-09.57.03:445][ 42]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.28-09.57.03:445][ 42]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.10.28-09.57.03:445][ 42]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.28-09.57.03:445][ 42]LogTemp: BranchPath = DESKTOP-RO6AAOC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-RO6AAOC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.28-09.57.03:472][ 43]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\whkjo\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.28-09.57.05:209][170]LogSlate: Window '프로젝트 세팅' being destroyed
+[2018.10.28-09.57.05:227][170]LogSlate: Window '프로젝트 세팅' being destroyed
+[2018.10.28-09.57.26:615][ 14]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PNPlayerPawn.PNPlayerPawn
+[2018.10.28-09.58.55:647][418]BlueprintLog: New page: PNPlayerPawn 컴파일
+[2018.10.28-09.59.41:469][722]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test/Test_Trigger' took 0.029
+[2018.10.28-09.59.41:472][722]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PNPlayerPawn] ([1] browsable assets)...
+[2018.10.28-09.59.41:495][722]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PNPlayerPawn.PNPlayerPawn]
+[2018.10.28-09.59.41:495][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PNPlayerPawn]
+[2018.10.28-09.59.41:495][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PNPlayerPawn" FILE="D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Blueprints/PNPlayerPawn_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2018.10.28-09.59.41:564][722]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNPlayerPawn_Auto7EEE3E8D54B4702D81598A7B371BB22DF.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Blueprints/PNPlayerPawn_Auto7.uasset'
+[2018.10.28-09.59.41:566][722]LogFileHelpers: Auto-saving content packages took 0.095
+[2018.10.28-10.00.25:473][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-10.00.26:911][222]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PNPPickupCoinActor.PNPPickupCoinActor
+[2018.10.28-10.02.42:294][155]LogEditorTransaction: Undo 노드 추가
+[2018.10.28-10.05.13:338][ 84]BlueprintLog: New page: PNPPickupCoinActor 컴파일
+[2018.10.28-10.05.19:502][746]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.10.28-10.05.19:530][746]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-10.05.19:530][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.28-10.05.19:530][746]PIE: New page: PIE 세션: Test_Trigger (2018. 10. 29. 오전 4:05:19)
+[2018.10.28-10.05.19:530][746]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_Test_Trigger
+[2018.10.28-10.05.19:535][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004459s)
+[2018.10.28-10.05.19:536][746]LogAIModule: Creating AISystem for world Test_Trigger
+[2018.10.28-10.05.19:536][746]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2018.10.28-10.05.19:536][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/Test_Trigger.Test_Trigger to /Game/Maps/Test/UEDPIE_0_Test_Trigger.Test_Trigger (0.005569s)
+[2018.10.28-10.05.19:617][746]LogInit: XAudio2 using '스피커(SB Audigy)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.28-10.05.19:667][746]LogInit: FAudioDevice initialized.
+[2018.10.28-10.05.19:697][746]LogLoad: Game class is 'PNGameMode_C'
+[2018.10.28-10.05.19:699][746]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_Test_Trigger.Test_Trigger up for play (max tick rate 0) at 2018.10.28-19.05.19
+[2018.10.28-10.05.19:699][746]LogWorld: Bringing up level for play took: 0.001407
+[2018.10.28-10.05.19:713][746]PIE: /Game/Maps/Test/UEDPIE_0_Test_Trigger 에 대한 에디터에서 플레이 시작 시간: -0.125
+[2018.10.28-10.05.19:713][746]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-10.05.25:009][316]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-10.05.25:010][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-10.05.25:053][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.28-10.05.25:053][316]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-10.05.25:092][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-10.05.25:121][317]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.10.28-10.05.26:554][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-10.05.32:228][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-10.05.41:525][907]LogEditorViewport: Clicking on Actor (LMB): PNPickupScroll_C (PNPickupScroll)
+[2018.10.28-10.05.42:730][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-10.06.30:614][456]BlueprintLog: New page: PNPickupScroll 컴파일
+[2018.10.28-10.06.31:738][524]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.10.28-10.06.31:769][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-10.06.31:769][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.28-10.06.31:769][524]PIE: New page: PIE 세션: Test_Trigger (2018. 10. 29. 오전 4:06:31)
+[2018.10.28-10.06.31:770][524]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_Test_Trigger
+[2018.10.28-10.06.31:774][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004450s)
+[2018.10.28-10.06.31:774][524]LogAIModule: Creating AISystem for world Test_Trigger
+[2018.10.28-10.06.31:775][524]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2018.10.28-10.06.31:775][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/Test_Trigger.Test_Trigger to /Game/Maps/Test/UEDPIE_0_Test_Trigger.Test_Trigger (0.005490s)
+[2018.10.28-10.06.31:851][524]LogInit: XAudio2 using '스피커(SB Audigy)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.28-10.06.31:900][524]LogInit: FAudioDevice initialized.
+[2018.10.28-10.06.31:930][524]LogLoad: Game class is 'PNGameMode_C'
+[2018.10.28-10.06.31:931][524]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_Test_Trigger.Test_Trigger up for play (max tick rate 0) at 2018.10.28-19.06.31
+[2018.10.28-10.06.31:932][524]LogWorld: Bringing up level for play took: 0.001300
+[2018.10.28-10.06.31:945][524]PIE: /Game/Maps/Test/UEDPIE_0_Test_Trigger 에 대한 에디터에서 플레이 시작 시간: 0.108
+[2018.10.28-10.06.31:946][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-10.06.35:727][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-10.06.35:728][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-10.06.35:767][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.28-10.06.35:767][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger' with GeneratedClass '/Game/Maps/Test/Test_Trigger.Test_Trigger_C' with ClassGeneratedBy '/Game/Maps/Test/Test_Trigger.Test_Trigger:PersistentLevel.Test_Trigger'
+[2018.10.28-10.06.35:806][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-10.06.35:835][931]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.10.28-10.07.50:293][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-10.09.52:241][558]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/Test_Trigger_Auto8BDB1B4084DDD62A247FC078E8E3B357F.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Test/Test_Trigger_Auto8.umap'
+[2018.10.28-10.09.52:246][558]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test/Test_Trigger' took 0.504
+[2018.10.28-10.09.52:246][558]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.504
+[2018.10.28-10.09.52:249][558]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PNPPickupCoinActor] ([1] browsable assets)...
+[2018.10.28-10.09.52:279][558]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PNPPickupCoinActor.PNPPickupCoinActor]
+[2018.10.28-10.09.52:279][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PNPPickupCoinActor]
+[2018.10.28-10.09.52:370][558]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNPPickupCoinActor_Auto86DD1BCC34BC5F821F4AFD89248484D95.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Blueprints/PNPPickupCoinActor_Auto8.uasset'
+[2018.10.28-10.09.52:373][558]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PNPickupScroll] ([1] browsable assets)...
+[2018.10.28-10.09.52:397][558]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PNPickupScroll.PNPickupScroll]
+[2018.10.28-10.09.52:397][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PNPickupScroll]
+[2018.10.28-10.09.52:397][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PNPickupScroll" FILE="D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Blueprints/PNPickupScroll_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2018.10.28-10.09.52:446][558]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNPickupScroll_Auto8FC593A26420611C6E1D996903B67F0F8.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Blueprints/PNPickupScroll_Auto8.uasset'
+[2018.10.28-10.09.52:476][558]LogFileHelpers: Auto-saving content packages took 0.229
+[2018.10.28-10.20.35:809][962]LogAIModule: Creating AISystem for world PNStage01_Top
+[2018.10.28-10.20.35:815][962]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Stage01/PNStage01_Top.PNStage01_Top
+[2018.10.28-10.20.38:024][962]LogSlate: Window '콘텐츠 저장' being destroyed
+[2018.10.28-10.20.38:031][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PNPickupScroll" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Blueprints/PNPickupScroll.uasset" SILENT=true
+[2018.10.28-10.20.38:067][962]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNPickupScrollE21473254EC3B3B23843D99F112D3947.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Blueprints/PNPickupScroll.uasset'
+[2018.10.28-10.20.38:078][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PNPlayerPawn" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Blueprints/PNPlayerPawn.uasset" SILENT=true
+[2018.10.28-10.20.38:173][962]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNPlayerPawnA30A43B243422BC0F652D0965A56DDF5.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Blueprints/PNPlayerPawn.uasset'
+[2018.10.28-10.20.38:181][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PNPPickupCoinActor" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Blueprints/PNPPickupCoinActor.uasset" SILENT=true
+[2018.10.28-10.20.38:235][962]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNPPickupCoinActorE9976AB54200FB80510439A20207DA29.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Blueprints/PNPPickupCoinActor.uasset'
+[2018.10.28-10.20.41:016][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test/Test_Trigger" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Test/Test_Trigger.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.28-10.20.41:306][962]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/Test_TriggerF80444984AB90DD4ADF75AA062159B5D.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Test/Test_Trigger.umap'
+[2018.10.28-10.20.41:338][962]LogFileHelpers: Saving map 'Test_Trigger' took 3.094
+[2018.10.28-10.20.41:340][962]Cmd: MAP LOAD FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.28-10.20.41:340][962]LightingResults: New page: 라이팅 빌드
+[2018.10.28-10.20.41:341][962]LoadErrors: New page: 맵 로드중: PNStage01_Top.umap
+[2018.10.28-10.20.41:343][962]MapCheck: New page: 맵 체크
+[2018.10.28-10.20.41:343][962]LightingResults: New page: 라이팅 빌드
+[2018.10.28-10.20.41:511][962]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.28-10.20.41:575][962]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.28-10.20.41:775][962]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 200.009ms.
+[2018.10.28-10.20.41:777][962]LogFileHelpers: Loading map 'PNStage01_Top' took 0.439
+[2018.10.28-10.20.51:456][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-10.21.05:418][177]LogTexture: Display: 텍스처 빌드: T_Floor01_D (AutoDXT, 1024X1024)
+[2018.10.28-10.21.10:883][705]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2018.10.28-10.21.10:917][706]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.28-10.21.10:917][706]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.28-10.21.10:918][706]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.28-10.21.21:466][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Meterials/M_Floor" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/Meterials/M_Floor.uasset" SILENT=true
+[2018.10.28-10.21.21:494][989]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/M_FloorB95B77B84D23EA6C52F25FA424E9BF33.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/Meterials/M_Floor.uasset'
+[2018.10.28-10.21.32:147][916]LogTexture: Display: 텍스처 빌드: T_Floor01_Side_D (AutoDXT, 512X128)
+[2018.10.28-10.21.44:507][140]LogMaterial: Display: Missing cached shader map for material M_FloorSide, compiling. 
+[2018.10.28-10.21.44:542][141]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.28-10.21.44:542][141]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.28-10.21.44:542][141]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.28-10.22.07:510][534]LogTexture: Display: 텍스처 빌드: T_Wall01_D (AutoDXT, 2048X1024)
+[2018.10.28-10.22.13:134][ 37]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2018.10.28-10.22.13:168][ 38]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.28-10.22.13:168][ 38]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.28-10.22.13:168][ 38]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.28-10.22.22:414][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Meterials/M_Wall" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/Meterials/M_Wall.uasset" SILENT=true
+[2018.10.28-10.22.22:441][748]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/M_WallA00456264612E7358E872EB27F982318.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/Meterials/M_Wall.uasset'
+[2018.10.28-10.22.22:473][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Meterials/M_FloorSide" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/Meterials/M_FloorSide.uasset" SILENT=true
+[2018.10.28-10.22.22:500][748]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/M_FloorSide5DAE184E40899E75F6DC769FA36BF0BE.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/Meterials/M_FloorSide.uasset'
+[2018.10.28-10.23.03:726][359]LogTexture: Display: 텍스처 빌드: T_Bonfire_D (AutoDXT, 2048X2048)
+[2018.10.28-10.23.03:849][359]LogEditorViewport: Clicking Background
+[2018.10.28-10.23.03:939][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-10.23.10:159][933]LogMaterial: Display: Missing cached shader map for material M_Bonfire, compiling. 
+[2018.10.28-10.23.10:194][934]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.28-10.23.10:194][934]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.28-10.23.10:194][934]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.28-10.23.49:974][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Materials/M_FloorSide" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/Materials/M_FloorSide.uasset" SILENT=true
+[2018.10.28-10.23.50:001][375]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/M_FloorSide95867F1841463B0ED4EC70A89ABE4415.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/Materials/M_FloorSide.uasset'
+[2018.10.28-10.23.50:029][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Materials/M_Wall" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/Materials/M_Wall.uasset" SILENT=true
+[2018.10.28-10.23.50:056][375]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/M_Wall0FA05B864D5C37576E73DCA7038C2167.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/Materials/M_Wall.uasset'
+[2018.10.28-10.23.50:087][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Materials/M_Floor" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/Materials/M_Floor.uasset" SILENT=true
+[2018.10.28-10.23.50:114][375]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/M_Floor71234BBA4091362851DA5B8EDC81BA28.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/Materials/M_Floor.uasset'
+[2018.10.28-10.23.50:142][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Materials/M_Pillar" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/Materials/M_Pillar.uasset" SILENT=true
+[2018.10.28-10.23.50:169][375]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/M_Pillar898E34D3493ED097F54554AC213951A7.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/Materials/M_Pillar.uasset'
+[2018.10.28-10.23.50:820][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Pillar" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/SM_Pillar.uasset" SILENT=true
+[2018.10.28-10.23.50:858][375]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/SM_Pillar933236C14587C96BA93AC69101571D4F.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/SM_Pillar.uasset'
+[2018.10.28-10.30.36:290][271]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.035
+[2018.10.28-10.30.36:309][271]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Textures/M_Bonfire] ([1] browsable assets)...
+[2018.10.28-10.30.36:335][271]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Props/Textures/M_Bonfire.M_Bonfire]
+[2018.10.28-10.30.36:335][271]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Textures/M_Bonfire]
+[2018.10.28-10.30.36:335][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/M_Bonfire" FILE="D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Props/Textures/M_Bonfire_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2018.10.28-10.30.36:392][271]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/M_Bonfire_Auto91018F779479C4D70DA49CD88F8CD887E.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Props/Textures/M_Bonfire_Auto9.uasset'
+[2018.10.28-10.30.36:393][271]LogFileHelpers: Auto-saving content packages took 0.102
+[2018.10.28-10.31.45:525][481]LogEditorViewport: Clicking Background
+[2018.10.28-10.32.07:823][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-10.32.22:617][ 25]LogAssetEditorManager: Opening Asset editor for Material /Game/Architecture/Materials/M_Wall.M_Wall
+[2018.10.28-10.32.22:669][ 25]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2018.10.28-10.32.24:846][ 25]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2018.10.28-10.32.24:864][ 25]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.28-10.32.24:865][ 25]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.28-10.32.24:865][ 25]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.28-10.32.24:897][ 25]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.10.28-10.32.28:502][346]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.28-10.32.28:517][348]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.28-10.32.28:526][349]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.28-10.32.29:024][406]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.28-10.32.29:110][416]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.28-10.32.29:246][432]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.28-10.32.29:530][465]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.28-10.32.29:546][467]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.28-10.32.29:754][491]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.28-10.32.30:487][576]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.28-10.32.30:839][617]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.28-10.32.30:907][625]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.28-10.32.31:617][707]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.28-10.32.31:633][709]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.28-10.32.32:177][772]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.28-10.32.32:905][857]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.28-10.32.32:923][859]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.28-10.32.32:939][861]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.28-10.32.33:743][953]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.28-10.32.33:973][980]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.28-10.32.34:317][ 17]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.10.28-10.32.34:317][ 17]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.10.28-10.32.34:317][ 17]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.10.28-10.32.34:317][ 17]MaterialEditorStats: Texture samplers: 4/16
+[2018.10.28-10.32.34:317][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.10.28-10.32.34:317][ 17]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.28-10.35.29:251][904]LogStaticMesh: SM_Floor 스태틱 메시 빌드중...
+[2018.10.28-10.35.29:256][904]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_Floor.SM_Floor
+[2018.10.28-10.35.31:137][904]LogSlate: Window '메시지' being destroyed
+[2018.10.28-10.35.31:185][904]LogStaticMesh: SM_FoldingScreen 스태틱 메시 빌드중...
+[2018.10.28-10.35.31:191][904]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_FoldingScreen.SM_FoldingScreen
+[2018.10.28-10.35.31:211][904]LogStaticMesh: SM_FoldingScreen_25 스태틱 메시 빌드중...
+[2018.10.28-10.35.31:219][904]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_FoldingScreen_25.SM_FoldingScreen_25
+[2018.10.28-10.35.31:233][904]LogStaticMesh: SM_FoldingScreen_50 스태틱 메시 빌드중...
+[2018.10.28-10.35.31:241][904]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_FoldingScreen_50.SM_FoldingScreen_50
+[2018.10.28-10.35.31:292][904]LogStaticMesh: SM_Fusuma02_01 스태틱 메시 빌드중...
+[2018.10.28-10.35.31:304][904]LogStaticMesh: Built static mesh [0.02s] /Game/Architecture/SM_Fusuma02_01.SM_Fusuma02_01
+[2018.10.28-10.35.31:363][904]LogStaticMesh: SM_Fusuma02_02 스태틱 메시 빌드중...
+[2018.10.28-10.35.31:375][904]LogStaticMesh: Built static mesh [0.02s] /Game/Architecture/SM_Fusuma02_02.SM_Fusuma02_02
+[2018.10.28-10.35.31:435][904]LogStaticMesh: SM_Fusuma02_03 스태틱 메시 빌드중...
+[2018.10.28-10.35.31:447][904]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_Fusuma02_03.SM_Fusuma02_03
+[2018.10.28-10.35.31:490][904]LogStaticMesh: SM_Fusuma02_04 스태틱 메시 빌드중...
+[2018.10.28-10.35.31:502][904]LogStaticMesh: Built static mesh [0.02s] /Game/Architecture/SM_Fusuma02_04.SM_Fusuma02_04
+[2018.10.28-10.35.31:680][904]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Developer/Personal/unreal/PaperNinja_Resource/Architecture/Meshes/SM_IronFloor.FBX)
+[2018.10.28-10.35.31:818][904]LogFbx: Loading FBX Scene from D:/Developer/Personal/unreal/PaperNinja_Resource/Architecture/Meshes/SM_IronFloor.FBX
+[2018.10.28-10.35.34:236][904]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.28-10.35.48:328][904]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2018.10.28-10.35.48:514][904]LogStaticMesh: SM_IronFloor_tetsukousi01_01 스태틱 메시 빌드중...
+[2018.10.28-10.35.48:523][904]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_IronFloor_tetsukousi01_01.SM_IronFloor_tetsukousi01_01
+[2018.10.28-10.36.22:451][904]LogLinker: '/Game/Architecture/T_IronFloor01_D' 파일을 찾을 수 없습니다.
+[2018.10.28-10.36.22:451][904]LogLinker: '/Game/Architecture/T_IronFloor01_D' 파일을 찾을 수 없습니다.
+[2018.10.28-10.36.24:703][904]LogFbxMaterialImport: Warning: Unable to find Texture file //LANDISK_001/disk/server/PC_Backup/Perforce/PaperNinja_Resource/Textures/Environment/T_IronFloor01_D.tga
+[2018.10.28-10.36.24:709][904]LogMaterial: Display: Missing cached shader map for material paper, compiling. 
+[2018.10.28-10.36.24:735][904]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.28-10.36.24:735][904]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.28-10.36.24:735][904]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.28-10.36.24:735][904]LogFbx: Warning: Triangulating static mesh tetsukousi01_01
+[2018.10.28-10.36.24:786][904]LogStaticMesh: SM_IronFloor_tetsukousi01_01 스태틱 메시 빌드중...
+[2018.10.28-10.36.24:795][904]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_IronFloor_tetsukousi01_01.SM_IronFloor_tetsukousi01_01
+[2018.10.28-10.36.24:840][904]LogStaticMesh: SM_IronFloor_tetsukousi01_02 스태틱 메시 빌드중...
+[2018.10.28-10.36.24:886][904]LogStaticMesh: Built static mesh [0.07s] /Game/Architecture/SM_IronFloor_tetsukousi01_02.SM_IronFloor_tetsukousi01_02
+[2018.10.28-10.36.24:907][904]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Perforce/PaperNinja_Resource/Archtecture/Meshes/T_IronFloor01_D.tga
+[2018.10.28-10.36.24:911][904]LogMaterial: Display: Missing cached shader map for material iron_floor_tetsukousi01SG1, compiling. 
+[2018.10.28-10.36.24:929][904]LogFbx: Warning: Triangulating static mesh tetsukousi01_02
+[2018.10.28-10.36.24:943][904]LogStaticMesh: SM_IronFloor_tetsukousi01_02 스태틱 메시 빌드중...
+[2018.10.28-10.36.24:989][904]LogStaticMesh: Built static mesh [0.05s] /Game/Architecture/SM_IronFloor_tetsukousi01_02.SM_IronFloor_tetsukousi01_02
+[2018.10.28-10.36.25:046][904]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Developer/Personal/unreal/PaperNinja_Resource/Architecture/Meshes/SM_Plane128x128.fbx)
+[2018.10.28-10.36.25:066][904]LogFbx: Loading FBX Scene from D:/Developer/Personal/unreal/PaperNinja_Resource/Architecture/Meshes/SM_Plane128x128.fbx
+[2018.10.28-10.36.25:077][904]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.28-10.36.25:200][904]LogStaticMesh: SM_Plane128x128_pPlane1 스태틱 메시 빌드중...
+[2018.10.28-10.36.25:235][904]LogStaticMesh: Built static mesh [0.04s] /Game/Architecture/SM_Plane128x128_pPlane1.SM_Plane128x128_pPlane1
+[2018.10.28-10.36.25:274][904]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.10.28-10.36.25:293][904]LogFbx: Warning: Triangulating static mesh pPlane1
+[2018.10.28-10.36.25:483][904]LogStaticMesh: SM_Plane128x128_pPlane1 스태틱 메시 빌드중...
+[2018.10.28-10.36.25:517][904]LogStaticMesh: Built static mesh [0.05s] /Game/Architecture/SM_Plane128x128_pPlane1.SM_Plane128x128_pPlane1
+[2018.10.28-10.36.25:584][904]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Developer/Personal/unreal/PaperNinja_Resource/Architecture/Meshes/SM_Wall.fbx)
+[2018.10.28-10.36.25:605][904]LogFbx: Loading FBX Scene from D:/Developer/Personal/unreal/PaperNinja_Resource/Architecture/Meshes/SM_Wall.fbx
+[2018.10.28-10.36.25:618][904]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.28-10.36.25:624][904]LogStaticMesh: SM_Wall_SM_Wall_M2 스태틱 메시 빌드중...
+[2018.10.28-10.36.25:628][904]LogStaticMesh: Built static mesh [0.00s] /Game/Architecture/SM_Wall_SM_Wall_M2.SM_Wall_SM_Wall_M2
+[2018.10.28-10.36.25:672][904]LogLinker: '/Game/Architecture/T_Wall01_D' 파일을 찾을 수 없습니다.
+[2018.10.28-10.36.25:672][904]LogLinker: '/Game/Architecture/T_Wall01_D' 파일을 찾을 수 없습니다.
+[2018.10.28-10.36.25:672][904]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/kwkm/maya/Rocket/RKT_ENV_Wall/sourceimages/T_Wall01_D.tga
+[2018.10.28-10.36.25:678][904]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2018.10.28-10.36.25:697][904]LogFbx: Warning: Triangulating static mesh SM_Wall_M2
+[2018.10.28-10.36.25:705][904]LogFbx: Warning: Triangulating mesh UCX_SM_Wall_M2 for collision model
+[2018.10.28-10.36.25:723][904]LogStaticMesh: SM_Wall_SM_Wall_M2 스태틱 메시 빌드중...
+[2018.10.28-10.36.25:727][904]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_Wall_SM_Wall_M2.SM_Wall_SM_Wall_M2
+[2018.10.28-10.36.25:749][904]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Developer/Personal/unreal/PaperNinja_Resource/Architecture/Meshes/SM_Wall01_Large.fbx)
+[2018.10.28-10.36.25:768][904]LogFbx: Loading FBX Scene from D:/Developer/Personal/unreal/PaperNinja_Resource/Architecture/Meshes/SM_Wall01_Large.fbx
+[2018.10.28-10.36.25:851][904]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.28-10.36.25:857][904]LogStaticMesh: SM_Wall01_Large_SM_Wall_M 스태틱 메시 빌드중...
+[2018.10.28-10.36.25:862][904]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_Wall01_Large_SM_Wall_M.SM_Wall01_Large_SM_Wall_M
+[2018.10.28-10.36.27:576][904]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.10.28-10.36.27:585][904]LogTexture: Display: 텍스처 빌드: T_Wall01_D (AutoDXT, 2048X1024)
+[2018.10.28-10.36.32:043][904]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.10.28-10.36.32:043][904]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.10.28-10.36.32:082][904]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2018.10.28-10.36.32:104][904]LogFbx: Warning: Triangulating static mesh SM_Wall_M
+[2018.10.28-10.36.32:118][904]LogStaticMesh: SM_Wall01_Large_SM_Wall_M 스태틱 메시 빌드중...
+[2018.10.28-10.36.32:124][904]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_Wall01_Large_SM_Wall_M.SM_Wall01_Large_SM_Wall_M
+[2018.10.28-10.36.32:628][907]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.10.28-10.36.34:143][948]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.10.28-10.36.35:890][992]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.10.28-10.36.37:693][ 31]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.28-10.36.37:713][ 32]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.28-10.36.40:359][102]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.28-10.39.41:084][762]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Developer\Personal\unreal\PaperNinja_Resource\Architecture\Meshes\SM_Wall.fbx)
+[2018.10.28-10.39.41:102][762]LogFbx: Loading FBX Scene from D:\Developer\Personal\unreal\PaperNinja_Resource\Architecture\Meshes\SM_Wall.fbx
+[2018.10.28-10.39.41:114][762]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.28-10.39.43:088][762]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2018.10.28-10.39.43:128][762]LogFbx: Warning: Triangulating static mesh SM_Wall_M2
+[2018.10.28-10.39.43:134][762]LogFbx: Warning: Triangulating mesh UCX_SM_Wall_M2 for collision model
+[2018.10.28-10.39.43:150][762]LogStaticMesh: SM_Wall 스태틱 메시 빌드중...
+[2018.10.28-10.39.43:154][762]LogStaticMesh: Built static mesh [0.00s] /Game/Architecture/SM_Wall.SM_Wall
+[2018.10.28-10.40.28:670][248]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.28-10.40.49:761][500]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.28-10.41.25:922][311]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.050
+[2018.10.28-10.41.25:924][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/SM_IronFloor_tetsukousi01_01] ([1] browsable assets)...
+[2018.10.28-10.41.25:947][311]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Architecture/SM_IronFloor_tetsukousi01_01.SM_IronFloor_tetsukousi01_01]
+[2018.10.28-10.41.25:947][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/SM_IronFloor_tetsukousi01_01]
+[2018.10.28-10.41.26:143][311]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/SM_IronFloor_tetsukousi01_01_Aut177A8C6A40D26985908D54A3186BC713.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/SM_IronFloor_tetsukousi01_01_Auto0.uasset'
+[2018.10.28-10.41.26:178][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/paper] ([1] browsable assets)...
+[2018.10.28-10.41.26:197][311]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Architecture/paper.paper]
+[2018.10.28-10.41.26:197][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/paper]
+[2018.10.28-10.41.26:197][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/paper" FILE="D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/paper_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2018.10.28-10.41.26:238][311]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/paper_Auto0D5ABB17F433DD539CBE135851459D7C5.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/paper_Auto0.uasset'
+[2018.10.28-10.41.26:242][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/SM_IronFloor_tetsukousi01_02] ([1] browsable assets)...
+[2018.10.28-10.41.26:263][311]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Architecture/SM_IronFloor_tetsukousi01_02.SM_IronFloor_tetsukousi01_02]
+[2018.10.28-10.41.26:263][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/SM_IronFloor_tetsukousi01_02]
+[2018.10.28-10.41.26:305][311]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/SM_IronFloor_tetsukousi01_02_Aut02F2CEE24593E4E6A928D88E4A9D95EE.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/SM_IronFloor_tetsukousi01_02_Auto0.uasset'
+[2018.10.28-10.41.26:308][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/iron_floor_tetsukousi01SG1] ([1] browsable assets)...
+[2018.10.28-10.41.26:338][311]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Architecture/iron_floor_tetsukousi01SG1.iron_floor_tetsukousi01SG1]
+[2018.10.28-10.41.26:338][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/iron_floor_tetsukousi01SG1]
+[2018.10.28-10.41.26:368][311]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/iron_floor_tetsukousi01SG1_Auto061E084AA4C8E6C18E02147884DF6E4B6.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/iron_floor_tetsukousi01SG1_Auto0.uasset'
+[2018.10.28-10.41.26:371][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/SM_Plane128x128_pPlane1] ([1] browsable assets)...
+[2018.10.28-10.41.26:395][311]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Architecture/SM_Plane128x128_pPlane1.SM_Plane128x128_pPlane1]
+[2018.10.28-10.41.26:395][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/SM_Plane128x128_pPlane1]
+[2018.10.28-10.41.26:454][311]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/SM_Plane128x128_pPlane1_Auto07E44FF28444A6313D1DFC19B20D481B8.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/SM_Plane128x128_pPlane1_Auto0.uasset'
+[2018.10.28-10.41.26:457][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/lambert1] ([1] browsable assets)...
+[2018.10.28-10.41.26:482][311]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Architecture/lambert1.lambert1]
+[2018.10.28-10.41.26:482][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/lambert1]
+[2018.10.28-10.41.26:482][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/lambert1" FILE="D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/lambert1_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2018.10.28-10.41.26:509][311]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/lambert1_Auto0201B317648A0B4999F8BD2B04EA74B3A.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/lambert1_Auto0.uasset'
+[2018.10.28-10.41.26:512][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/SM_Wall] ([1] browsable assets)...
+[2018.10.28-10.41.26:532][311]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Architecture/SM_Wall.SM_Wall]
+[2018.10.28-10.41.26:533][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/SM_Wall]
+[2018.10.28-10.41.26:533][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Wall" FILE="D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/SM_Wall_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2018.10.28-10.41.26:567][311]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/SM_Wall_Auto05663BDB4493467FBB62B388D10DB9121.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/SM_Wall_Auto0.uasset'
+[2018.10.28-10.41.26:571][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/lambert4] ([1] browsable assets)...
+[2018.10.28-10.41.26:595][311]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Architecture/lambert4.lambert4]
+[2018.10.28-10.41.26:595][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/lambert4]
+[2018.10.28-10.41.26:595][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/lambert4" FILE="D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/lambert4_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2018.10.28-10.41.26:621][311]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/lambert4_Auto041CC1E2146CD93777B738BB5A59964B4.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/lambert4_Auto0.uasset'
+[2018.10.28-10.41.26:624][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/T_Wall01_D] ([1] browsable assets)...
+[2018.10.28-10.41.26:637][311]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Architecture/T_Wall01_D.T_Wall01_D]
+[2018.10.28-10.41.26:637][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/T_Wall01_D]
+[2018.10.28-10.41.26:637][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/T_Wall01_D" FILE="D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/T_Wall01_D_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2018.10.28-10.41.26:668][311]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/T_Wall01_D_Auto089F479EB42896EFDE23DB49E7223956F.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/T_Wall01_D_Auto0.uasset'
+[2018.10.28-10.41.26:671][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/SM_Wall01_Large_SM_Wall_M] ([1] browsable assets)...
+[2018.10.28-10.41.26:695][311]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Architecture/SM_Wall01_Large_SM_Wall_M.SM_Wall01_Large_SM_Wall_M]
+[2018.10.28-10.41.26:695][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/SM_Wall01_Large_SM_Wall_M]
+[2018.10.28-10.41.26:738][311]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/SM_Wall01_Large_SM_Wall_M_Auto0C78A2515488EC20D7D4046BE54790C49.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/SM_Wall01_Large_SM_Wall_M_Auto0.uasset'
+[2018.10.28-10.41.26:744][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/lambert3] ([1] browsable assets)...
+[2018.10.28-10.41.26:784][311]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Architecture/lambert3.lambert3]
+[2018.10.28-10.41.26:784][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/lambert3]
+[2018.10.28-10.41.26:784][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/lambert3" FILE="D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/lambert3_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2018.10.28-10.41.26:817][311]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/lambert3_Auto032CC1EF24B35BB3F5C9D29824D51C83D.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/lambert3_Auto0.uasset'
+[2018.10.28-10.41.26:818][311]LogFileHelpers: Auto-saving content packages took 0.896
+[2018.10.29-15.54.26:728][386]LogHttp: Warning: 000002A2A47AEC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.10.29-15.54.26:729][386]LogHttp: Warning: 000002A2A47AEC00: libcurl info message cache 0 (Connection 197 seems to be dead!)
+[2018.10.29-15.54.26:729][386]LogHttp: Warning: 000002A2A47AEC00: libcurl info message cache 1 (Closing connection 197)
+[2018.10.29-15.54.26:729][386]LogHttp: Warning: 000002A2A47AEC00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.10.29-15.54.26:729][386]LogHttp: Warning: 000002A2A47AEC00: libcurl info message cache 3 (Closing connection 198)

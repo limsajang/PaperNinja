@@ -1,0 +1,1310 @@
+﻿Log file open, 10/30/18 23:17:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PaperNinja
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.244788
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.314s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5 CPU         750  @ 2.67GHz, GPU: AMD Radeon R9 200 Series
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.30-14.17.47:782][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.30-14.17.47:782][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.30-14.17.47:819][  0]LogHAL: Display: Platform has ~ 16 GB [17170485248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.30-14.17.47:819][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.30-14.17.47:819][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.30-14.17.47:820][  0]LogInit: Computer: DESKTOP-RO6AAOC
+[2018.10.30-14.17.47:820][  0]LogInit: User: whkjo
+[2018.10.30-14.17.47:820][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.30-14.17.47:820][  0]LogInit: High frequency timer resolution =3.124902 MHz
+[2018.10.30-14.17.47:820][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.10.30-14.17.47:820][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.30-14.17.47:820][  0]LogMemory: Process Physical Memory: 99.90 MB used, 99.90 MB peak
+[2018.10.30-14.17.47:820][  0]LogMemory: Process Virtual Memory: 84.20 MB used, 84.20 MB peak
+[2018.10.30-14.17.47:820][  0]LogMemory: Physical Memory: 4041.11 MB used,  12333.95 MB free, 16375.05 MB total
+[2018.10.30-14.17.47:820][  0]LogMemory: Virtual Memory: 4625.15 MB used,  12333.95 MB free, 134217728.00 MB total
+[2018.10.30-14.17.47:851][  0]LogInit: Using OS detected language (ko-KR).
+[2018.10.30-14.17.47:851][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.10.30-14.17.47:853][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.10.30-14.17.48:330][  0]LogStreaming: Display: Took  0.480s to InitEngineTextLocalization.
+[2018.10.30-14.17.48:330][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.30-14.17.48:377][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.30-14.17.48:377][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.30-14.17.48:758][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.30-14.17.48:758][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.30-14.17.48:784][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2018.10.30-14.17.48:784][  0]LogD3D11RHI:       3052/0/8187 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.10.30-14.17.48:787][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.30-14.17.48:787][  0]LogD3D11RHI:       0/0/8187 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.30-14.17.48:787][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.30-14.17.48:794][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.30-14.17.48:794][  0]LogD3D11RHI:     GPU DeviceId: 0x6798 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.30-14.17.48:794][  0]LogWindows: EnumDisplayDevices:
+[2018.10.30-14.17.48:794][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2018.10.30-14.17.48:796][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2018.10.30-14.17.48:798][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.30-14.17.48:800][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.30-14.17.48:802][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.30-14.17.48:804][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.10.30-14.17.48:806][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2018.10.30-14.17.48:806][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2018.10.30-14.17.48:806][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7 (internal:22.19.677.257, unified:22.19.677.257)
+[2018.10.30-14.17.48:806][  0]LogD3D11RHI:      Driver Date: 9-22-2017
+[2018.10.30-14.17.48:806][  0]LogRHI: Texture pool is 2136 MB (70% of 3052 MB)
+[2018.10.30-14.17.48:878][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.30-14.17.48:891][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.10.30-14.17.48:893][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (D:/Developer/Personal/unreal/PaperNinja/Intermediate/Shaders/WorkingDirectory/4104/).
+[2018.10.30-14.17.48:893][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/whkjo/AppData/Local/Temp/UnrealShaderWorkingDir/360314F149147DEE0B2DD69AA2731010/'.
+[2018.10.30-14.17.49:467][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.30-14.17.49:490][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.30-14.17.49:511][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.30-14.17.49:533][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.30-14.17.49:555][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.30-14.17.49:577][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.30-14.17.49:599][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.30-14.17.49:620][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.30-14.17.49:631][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.30-14.17.49:756][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.30-14.17.49:833][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.30-14.17.49:833][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.30-14.17.49:869][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.30-14.17.49:869][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.30-14.17.49:889][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.30-14.17.49:910][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.30-14.17.49:929][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.30-14.17.49:950][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.30-14.17.49:964][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.30-14.17.49:964][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.30-14.17.50:071][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.30-14.17.50:071][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.30-14.17.50:071][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.30-14.17.51:424][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.30-14.17.51:509][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/whkjo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.30-14.17.51:510][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/whkjo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.30-14.17.51:510][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Developer/Personal/unreal/PaperNinja/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.30-14.17.51:510][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.30-14.17.51:510][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Developer/Personal/unreal/PaperNinja/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.30-14.17.51:510][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.30-14.17.51:528][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.30-14.17.51:540][  0]LogDerivedDataCache: Using Local data cache path C:/Users/whkjo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.30-14.17.51:540][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.30-14.17.51:540][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.30-14.17.51:568][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.30-14.17.51:570][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.30-14.17.51:571][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.30-14.17.51:680][  0]LogAssetRegistry: FAssetRegistry took 0.0303 seconds to start up
+[2018.10.30-14.17.52:234][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.30-14.17.52:437][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.30-14.17.52:444][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.30-14.17.52:444][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.30-14.17.52:444][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.30-14.17.52:444][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.30-14.17.52:472][  0]LogNetVersion: PaperNinja 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2695055024)
+[2018.10.30-14.17.53:302][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.191140 seconds
+[2018.10.30-14.17.53:310][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.30-14.17.53:310][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.30-14.17.53:310][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.30-14.17.54:714][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.30-14.17.54:744][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.30-14.17.54:971][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2018.10.30-14.17.54:971][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2018.10.30-14.17.54:974][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2018.10.30-14.17.54:976][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2018.10.30-14.17.55:201][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.30-14.17.55:381][  0]LogOcInput: OculusInput pre-init called
+[2018.10.30-14.17.55:472][  0]LogEngine: Initializing Engine...
+[2018.10.30-14.17.55:474][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.30-14.17.55:476][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.30-14.17.55:476][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.30-14.17.55:476][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.30-14.17.55:476][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.30-14.17.55:821][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.30-14.17.55:844][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.30-14.17.55:906][  0]LogInit: XAudio2 using '스피커(SB Audigy)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.30-14.17.56:106][  0]LogInit: FAudioDevice initialized.
+[2018.10.30-14.17.56:107][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.30-14.17.56:314][  0]LogDerivedDataCache: Saved boot cache 0.21s 71MB C:/Users/whkjo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.30-14.17.56:335][  0]LogInit: Texture streaming: Enabled
+[2018.10.30-14.17.56:371][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.30-14.17.56:393][  0]LogInit: Transaction tracking system initialized
+[2018.10.30-14.17.56:437][  0]BlueprintLog: New page: 에디터 로드
+[2018.10.30-14.17.56:584][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.10.30-14.17.57:032][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.30-14.17.57:032][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.30-14.17.57:032][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.30-14.17.57:032][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.30-14.17.57:032][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.30-14.17.57:032][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.30-14.17.57:032][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.30-14.17.57:226][  0]LogFileCache: Scanning file cache for directory 'D:/Developer/Personal/unreal/PaperNinja/Content/' took 0.03s
+[2018.10.30-14.17.57:226][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2018.10.30-14.17.57:352][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.10.30-14.17.57:362][  0]LogSlate: Took 0.003341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.10.30-14.17.57:363][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.30-14.18.14:636][  0]LogSlate: Window '패키지 복원' being destroyed
+[2018.10.30-14.18.14:644][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.10.30-14.18.14:681][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.10.30-14.18.16:378][  0]LogSlate: Window '소스 컨트롤에서 체크아웃할 수 없습니다!' being destroyed
+[2018.10.30-14.18.16:383][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.10.30-14.18.17:121][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.10.30-14.18.17:124][  0]Cmd: MAP LOAD FILE="D:/Developer/Personal/unreal/PaperNinja/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.30-14.18.17:176][  0]LightingResults: New page: 라이팅 빌드
+[2018.10.30-14.18.17:181][  0]MapCheck: New page: 맵 체크
+[2018.10.30-14.18.17:181][  0]LightingResults: New page: 라이팅 빌드
+[2018.10.30-14.18.18:919][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.10.30-14.18.18:945][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.30-14.18.18:977][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.30-14.18.20:739][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 1,762.063ms.
+[2018.10.30-14.18.20:739][  0]LogFileHelpers: Loading map 'Minimal_Default' took 3.615
+[2018.10.30-14.18.20:914][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.30-14.18.20:926][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.30-14.18.20:936][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.30-14.18.20:947][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.30-14.18.20:971][  0]LogCollectionManager: Loaded 0 collections in 0.002942 seconds
+[2018.10.30-14.18.21:041][  0]LogFileCache: Scanning file cache for directory 'D:/Developer/Personal/unreal/PaperNinja/Saved/Collections/' took 0.01s
+[2018.10.30-14.18.21:041][  0]LogFileCache: Scanning file cache for directory 'D:/Developer/Personal/unreal/PaperNinja/Content/Developers/whkjo/Collections/' took 0.01s
+[2018.10.30-14.18.21:041][  0]LogFileCache: Scanning file cache for directory 'D:/Developer/Personal/unreal/PaperNinja/Content/Collections/' took 0.01s
+[2018.10.30-14.18.21:041][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.30-14.18.21:060][  0]LogContentBrowser: Native class hierarchy populated in 0.0160 seconds. Added 2572 classes and 603 folders.
+[2018.10.30-14.18.21:078][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.30-14.18.21:647][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.30-14.18.21:760][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.10.30-14.18.21:840][  0]LogSlate: Took 0.008445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2018.10.30-14.18.21:845][  0]LogSlate: Took 0.005411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.30-14.18.21:862][  0]LogSlate: Took 0.008420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.30-14.18.22:102][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.30-14.18.22:337][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.30-14.18.22:337][  0]LogLoad: (Engine Initialization) Total time: 37.89 seconds
+[2018.10.30-14.18.22:337][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.30-14.18.22:379][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.30-14.18.22:400][  0]LogSlate: Took 0.007357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.30-14.18.22:448][  2]LogAssetRegistry: Asset discovery search completed in 30.7919 seconds
+[2018.10.30-14.18.22:450][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.30-14.18.22:450][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
+[2018.10.30-14.18.23:372][105]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.30-14.18.24:195][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.30-14.18.25:555][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-14.18.25:890][335]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PNPPickupCoinActor.PNPPickupCoinActor
+[2018.10.30-14.18.26:842][335]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.10.30-14.18.28:437][335]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PNPlayerPawn.PNPlayerPawn
+[2018.10.30-14.18.29:096][335]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PNPickupScroll.PNPickupScroll
+[2018.10.30-14.18.29:680][335]LogAssetEditorManager: Opening Asset editor for Material /Game/Architecture/Materials/M_Wall.M_Wall
+[2018.10.30-14.18.29:686][335]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2018.10.30-14.18.30:221][335]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2018.10.30-14.18.30:244][335]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.30-14.18.30:244][335]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.30-14.18.30:244][335]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.30-14.18.30:270][335]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.10.30-14.18.30:322][335]LogSlate: Took 0.006988 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.30-14.18.30:511][336]LogSlate: Took 0.009818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.10.30-14.18.32:742][486]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.30-14.18.32:882][495]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.30-14.18.32:882][495]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.30-14.18.33:378][529]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.30-14.18.33:514][539]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.30-14.18.33:623][547]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.30-14.18.34:703][548]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.30-14.18.34:703][548]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.30-14.18.34:703][548]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.30-14.18.34:703][548]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.30-14.18.34:703][548]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.30-14.18.34:703][548]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.30-14.18.34:703][548]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.30-14.18.34:703][548]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.30-14.18.34:901][560]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.30-14.18.35:623][571]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.30-14.18.35:623][571]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.30-14.18.35:623][571]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.30-14.18.36:490][572]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.30-14.18.36:490][572]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.30-14.18.36:496][572]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.10.30-14.18.36:496][572]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.10.30-14.18.36:496][572]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.10.30-14.18.36:496][572]MaterialEditorStats: Texture samplers: 4/16
+[2018.10.30-14.18.36:496][572]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.10.30-14.18.36:496][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.30-14.18.36:787][583]LogSlate: Took 0.006024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.30-14.18.40:344][823]LogSlate: Window 'M_Wall' being destroyed
+[2018.10.30-14.18.44:635][255]LogAIModule: Creating AISystem for world PNStage01_Top
+[2018.10.30-14.18.44:642][255]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Stage01/PNStage01_Top.PNStage01_Top
+[2018.10.30-14.18.44:686][255]Cmd: MAP LOAD FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.30-14.18.44:686][255]LightingResults: New page: 라이팅 빌드
+[2018.10.30-14.18.44:687][255]LoadErrors: New page: 맵 로드중: PNStage01_Top.umap
+[2018.10.30-14.18.44:689][255]MapCheck: New page: 맵 체크
+[2018.10.30-14.18.44:689][255]LightingResults: New page: 라이팅 빌드
+[2018.10.30-14.18.44:744][255]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.30-14.18.44:809][255]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.30-14.18.44:994][255]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 183.963ms.
+[2018.10.30-14.18.44:995][255]LogFileHelpers: Loading map 'PNStage01_Top' took 0.310
+[2018.10.30-14.18.50:147][822]LogEditorViewport: Clicking Background
+[2018.10.30-14.18.56:340][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-14.19.08:107][445]LogAIModule: Creating AISystem for world Test_Trigger
+[2018.10.30-14.19.08:119][445]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Test/Test_Trigger.Test_Trigger
+[2018.10.30-14.19.08:155][445]Cmd: MAP LOAD FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Test/Test_Trigger.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.30-14.19.08:155][445]LightingResults: New page: 라이팅 빌드
+[2018.10.30-14.19.08:156][445]LoadErrors: New page: 맵 로드중: Test_Trigger.umap
+[2018.10.30-14.19.08:157][445]MapCheck: New page: 맵 체크
+[2018.10.30-14.19.08:157][445]LightingResults: New page: 라이팅 빌드
+[2018.10.30-14.19.08:216][445]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.30-14.19.08:278][445]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.30-14.19.08:462][445]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 183.258ms.
+[2018.10.30-14.19.08:462][445]LogFileHelpers: Loading map 'Test_Trigger' took 0.309
+[2018.10.30-14.19.12:340][841]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire3)
+[2018.10.30-14.19.20:693][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.30-14.19.23:853][853]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire2)
+[2018.10.30-14.19.24:817][933]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire4)
+[2018.10.30-14.19.26:133][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-14.19.26:964][124]LogAIModule: Creating AISystem for world PNStage01_Top
+[2018.10.30-14.19.26:969][124]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Stage01/PNStage01_Top.PNStage01_Top
+[2018.10.30-14.19.27:006][124]Cmd: MAP LOAD FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.30-14.19.27:006][124]LightingResults: New page: 라이팅 빌드
+[2018.10.30-14.19.27:007][124]LoadErrors: New page: 맵 로드중: PNStage01_Top.umap
+[2018.10.30-14.19.27:008][124]MapCheck: New page: 맵 체크
+[2018.10.30-14.19.27:008][124]LightingResults: New page: 라이팅 빌드
+[2018.10.30-14.19.27:058][124]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.30-14.19.27:122][124]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.30-14.19.27:308][124]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 185.417ms.
+[2018.10.30-14.19.27:309][124]LogFileHelpers: Loading map 'PNStage01_Top' took 0.304
+[2018.10.31-07.43.18:391][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-11.07.52:739][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-11.15.44:480][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Materials/M_Bonfire" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Props/Materials/M_Bonfire.uasset" SILENT=true
+[2018.10.31-11.15.44:519][748]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/M_BonfireDA82650644099CAAA1AF59A350C5F9BA.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Props/Materials/M_Bonfire.uasset'
+[2018.10.31-11.17.31:638][519]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Architecture/SM_Wall.SM_Wall
+[2018.10.31-11.17.32:284][520]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2018.10.31-11.18.27:122][589]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.033
+[2018.10.31-11.18.27:125][589]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/SM_Wall] ([1] browsable assets)...
+[2018.10.31-11.18.27:150][589]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Architecture/SM_Wall.SM_Wall]
+[2018.10.31-11.18.27:150][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/SM_Wall]
+[2018.10.31-11.18.27:150][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Wall" FILE="D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/SM_Wall_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.31-11.18.27:283][589]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/SM_Wall_Auto1B5CEAB7341E6D12F730EF1ACA5FA4FDD.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/SM_Wall_Auto1.uasset'
+[2018.10.31-11.18.27:284][589]LogFileHelpers: Auto-saving content packages took 0.161
+[2018.10.31-11.19.46:066][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-11.20.05:244][ 44]LogStaticMesh: SM_Bonfire 스태틱 메시 빌드중...
+[2018.10.31-11.20.05:313][ 44]LogStaticMesh: Built static mesh [0.07s] /Game/Props/SM_Bonfire.SM_Bonfire
+[2018.10.31-11.20.05:337][ 44]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Props/SM_Bonfire.SM_Bonfire
+[2018.10.31-11.20.28:246][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-11.20.59:306][795]LogSlate: Window '콘텐츠 브라우저 2' being destroyed
+[2018.10.31-11.21.48:066][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.21.48:090][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Bonfire" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Props/SM_Bonfire.uasset" SILENT=true
+[2018.10.31-11.21.48:127][243]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/SM_Bonfire4FEE80784E906858B127E79BAFF4EE76.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Props/SM_Bonfire.uasset'
+[2018.10.31-11.21.50:239][284]LogSlate: Window '콘텐츠 저장' being destroyed
+[2018.10.31-11.21.50:262][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Wall" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/SM_Wall.uasset" SILENT=true
+[2018.10.31-11.21.50:281][284]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/SM_Wall968E22A3496024F69A60BDB10D2BECAB.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/SM_Wall.uasset'
+[2018.10.31-11.23.54:063][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-11.24.01:134][776]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Architecture/SM_Floor.SM_Floor
+[2018.10.31-11.25.28:295][152]LogSlate: Window 'SM_Floor' being destroyed
+[2018.10.31-11.25.47:098][259]LogSlate: Window '콘텐츠 브라우저 2' being destroyed
+[2018.10.31-11.27.19:266][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-11.28.27:628][ 31]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.036
+[2018.10.31-11.28.27:630][ 31]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/SM_Floor] ([1] browsable assets)...
+[2018.10.31-11.28.27:651][ 31]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Architecture/SM_Floor.SM_Floor]
+[2018.10.31-11.28.27:651][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/SM_Floor]
+[2018.10.31-11.28.27:651][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Floor" FILE="D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/SM_Floor_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.10.31-11.28.27:688][ 31]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/SM_Floor_Auto29B12AD7F464DF0B2D4AA09BDB424F0CD.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Architecture/SM_Floor_Auto2.uasset'
+[2018.10.31-11.28.27:689][ 31]LogFileHelpers: Auto-saving content packages took 0.061
+[2018.10.31-11.30.12:660][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.30.14:283][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.30.15:954][150]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.31-11.30.16:330][159]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.PaperNinja
+[2018.10.31-11.30.16:350][160]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.31-11.30.16:351][160]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.10.31-11.30.16:351][160]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.31-11.30.16:351][160]LogTemp: BranchPath = DESKTOP-RO6AAOC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-RO6AAOC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.31-11.30.16:413][162]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\whkjo\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.31-11.30.22:026][389]LogSlate: Window '프로젝트 세팅' being destroyed
+[2018.10.31-11.30.22:032][389]LogSlate: Window '프로젝트 세팅' being destroyed
+[2018.10.31-11.30.24:784][499]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.30.28:778][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.30.30:115][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.30.31:297][804]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.31-11.30.31:399][805]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.PaperNinja
+[2018.10.31-11.30.31:399][805]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.31-11.30.31:399][805]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.10.31-11.30.31:399][805]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.31-11.30.31:431][806]LogTemp: BranchPath = DESKTOP-RO6AAOC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-RO6AAOC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.31-11.30.31:478][808]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\whkjo\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.31-11.31.01:540][ 35]LogSlate: Window '프로젝트 세팅' being destroyed
+[2018.10.31-11.31.01:545][ 35]LogSlate: Window '프로젝트 세팅' being destroyed
+[2018.10.31-11.31.02:221][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.31.07:237][344]LogEditorViewport: Clicking Background
+[2018.10.31-11.31.08:050][378]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.31.08:070][378]LogSlate: Took 0.009287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.10.31-11.31.08:102][378]LogSlate: Took 0.031872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2018.10.31-11.31.11:251][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.31.22:342][303]LogEditorViewport: Clicking on Actor (LMB): Brush (SecondWallBrush)
+[2018.10.31-11.31.23:797][408]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.31.28:116][606]LogEditorViewport: Clicking on Actor (LMB): Brush (FirstWallBrush)
+[2018.10.31-11.31.31:689][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.31.32:999][848]Cmd: STAT FPS
+[2018.10.31-11.31.36:053][ 19]LogEditorViewport: Clicking Background
+[2018.10.31-11.31.36:338][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.31.38:698][130]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.31.39:869][217]Cmd: STAT FPS
+[2018.10.31-11.31.42:141][346]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.31.42:231][350]LogEditorViewport: Clicking Background
+[2018.10.31-11.31.49:469][662]LogEditorViewport: Clicking Background
+[2018.10.31-11.31.49:863][678]LogEditorViewport: Clicking Background
+[2018.10.31-11.32.43:517][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.32.53:854][543]Cmd: t.MaxFPS 30
+[2018.10.31-11.32.53:854][543]t.MaxFPS = "30"
+[2018.10.31-11.32.57:800][659]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.33.00:921][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-11.33.17:288][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-11.43.26:743][133]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-12.21.58:156][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-12.42.01:450][102]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-12.42.28:382][907]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-12.42.30:336][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-12.54.36:389][546]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-12.54.45:553][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-12.55.47:566][646]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-12.55.50:677][739]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-12.56.02:832][103]LogSlate: Window '레벨 열기' being destroyed
+[2018.10.31-12.56.10:033][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-12.56.51:277][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-12.57.02:569][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-12.58.05:990][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-12.58.09:763][891]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_Top_Auto3990CB215462557A9A9788ABF846B7879.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_Top_Auto3.umap'
+[2018.10.31-12.58.09:772][891]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.118
+[2018.10.31-12.58.09:772][891]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.118
+[2018.10.31-12.59.15:854][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-13.01.20:708][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-13.02.01:433][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-13.02.11:409][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-13.02.14:285][199]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-13.02.21:819][420]Cmd: TRANSACTION UNDO
+[2018.10.31-13.02.21:819][420]LogEditorTransaction: Undo 액터 회전
+[2018.10.31-13.02.21:826][420]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2018.10.31-13.02.21:911][420]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.31-13.02.21:911][420]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.31-13.02.21:911][420]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.31-13.02.22:318][420]Cmd: TRANSACTION UNDO
+[2018.10.31-13.02.22:318][420]LogEditorTransaction: Undo 액터 클릭
+[2018.10.31-13.02.22:333][420]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2018.10.31-13.02.22:845][420]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-13.02.23:094][424]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.31-13.02.23:160][426]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.31-13.02.23:181][426]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.31-13.02.23:541][437]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.31-13.02.23:573][438]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-13.02.23:643][440]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-13.02.23:950][449]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-13.02.23:950][449]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-13.02.24:015][451]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.31-13.02.24:259][458]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.31-13.02.24:292][459]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.31-13.02.24:360][461]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.31-13.02.24:934][478]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.31-13.02.25:172][485]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.31-13.02.25:207][486]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.31-13.02.25:599][496]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.31-13.02.25:699][499]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.31-13.02.25:949][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-13.02.25:999][508]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.31-13.02.26:411][519]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.31-13.02.26:479][521]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.31-13.02.26:512][522]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.31-13.02.27:199][542]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.10.31-13.02.27:199][542]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.10.31-13.02.27:199][542]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.10.31-13.02.27:199][542]MaterialEditorStats: Texture samplers: 4/16
+[2018.10.31-13.02.27:199][542]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.10.31-13.02.27:199][542]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-13.06.26:872][904]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-13.06.36:140][182]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-13.06.36:843][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-13.06.38:074][238]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-13.06.38:243][238]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0006 seconds. Added 2 classes and 3 folders.
+[2018.10.31-13.06.40:531][306]LogSlate: Window '레벨' being destroyed
+[2018.10.31-13.06.44:064][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-13.07.19:282][939]LogSlate: Window '레벨 다른 이름으로 저장' being destroyed
+[2018.10.31-13.07.19:517][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage01/PNStage01_GB" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_GB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.31-13.07.19:570][939]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_GB8034774E491FA2316DF243B98D060191.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_GB.umap'
+[2018.10.31-13.07.19:578][939]LogFileHelpers: Saving map 'PNStage01_GB' took 0.286
+[2018.10.31-13.07.51:215][625]LogSlate: Window '레벨 다른 이름으로 저장' being destroyed
+[2018.10.31-13.07.51:433][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage01/PNStage01_SM" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_SM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.31-13.07.51:482][625]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_SMB35FB7864ABDC3DC47E19E9ADD484137.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_SM.umap'
+[2018.10.31-13.07.51:488][625]LogFileHelpers: Saving map 'PNStage01_SM' took 0.263
+[2018.10.31-13.15.46:638][491]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.10.31-13.15.46:640][491]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.10.31-13.15.46:640][491]LogEditorActor: Actor DirectionalLight is referenced by BP_Sky_Sphere.
+[2018.10.31-13.16.02:777][491]LogSlate: Window '메시지' being destroyed
+[2018.10.31-13.16.02:781][491]LogEditorActor: Deleted Actor: Brush
+[2018.10.31-13.16.02:782][491]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2018.10.31-13.16.02:783][491]LogEditorActor: Deleted Actor: Brush
+[2018.10.31-13.16.02:784][491]LogEditorActor: Deleted Actor: PlayerStart
+[2018.10.31-13.16.02:786][491]LogEditorActor: Deleted Actor: Brush
+[2018.10.31-13.16.02:786][491]LogEditorActor: Deleted Actor: Brush
+[2018.10.31-13.16.02:786][491]LogEditorActor: Deleted Actor: Brush
+[2018.10.31-13.16.02:847][491]LogEditorActor: Deleted 9 Actors (16.211 secs)
+[2018.10.31-13.16.02:892][491]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.31-13.16.02:910][491]LogLevelTools: Error: Cannot find remapping for moved actor ID /Game/Maps/Stage01/PNStage01_GB.PNStage01_GB:PersistentLevel.DirectionalLight2, any soft references pointing to it will be broken!
+[2018.10.31-13.16.12:189][767]LogLevelTools: Warning: AtmosphericFog_1 is already in the destination level so it was ignored
+[2018.10.31-13.16.12:189][767]LogLevelTools: Warning: BP_Sky_Sphere_2 is already in the destination level so it was ignored
+[2018.10.31-13.16.12:189][767]LogLevelTools: Warning: DirectionalLight2 is already in the destination level so it was ignored
+[2018.10.31-13.16.12:189][767]LogLevelTools: Warning: FirstWallBrush is already in the destination level so it was ignored
+[2018.10.31-13.16.12:189][767]LogLevelTools: Warning: NavMeshBoundsVolume_1 is already in the destination level so it was ignored
+[2018.10.31-13.16.12:189][767]LogLevelTools: Warning: PlatformBrush is already in the destination level so it was ignored
+[2018.10.31-13.16.12:189][767]LogLevelTools: Warning: PlayerStart_1 is already in the destination level so it was ignored
+[2018.10.31-13.16.12:189][767]LogLevelTools: Warning: SecondTunelBrush is already in the destination level so it was ignored
+[2018.10.31-13.16.12:189][767]LogLevelTools: Warning: SecondWallBrush is already in the destination level so it was ignored
+[2018.10.31-13.16.12:189][767]LogLevelTools: Warning: SlopeBrush is already in the destination level so it was ignored
+[2018.10.31-13.16.12:196][767]LogEditorActor: Deleted Actor: DirectionalLight
+[2018.10.31-13.16.12:233][767]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.10.31-13.16.33:201][394]LogLevelTools: Warning: AtmosphericFog_1 is already in the destination level so it was ignored
+[2018.10.31-13.16.33:201][394]LogLevelTools: Warning: BP_Sky_Sphere_2 is already in the destination level so it was ignored
+[2018.10.31-13.16.33:201][394]LogLevelTools: Warning: DirectionalLight_1 is already in the destination level so it was ignored
+[2018.10.31-13.16.33:201][394]LogLevelTools: Warning: DirectionalLight2 is already in the destination level so it was ignored
+[2018.10.31-13.16.33:201][394]LogLevelTools: Warning: FirstWallBrush is already in the destination level so it was ignored
+[2018.10.31-13.16.33:201][394]LogLevelTools: Warning: NavMeshBoundsVolume_1 is already in the destination level so it was ignored
+[2018.10.31-13.16.33:201][394]LogLevelTools: Warning: PlatformBrush is already in the destination level so it was ignored
+[2018.10.31-13.16.33:201][394]LogLevelTools: Warning: PlayerStart_1 is already in the destination level so it was ignored
+[2018.10.31-13.16.33:201][394]LogLevelTools: Warning: SecondTunelBrush is already in the destination level so it was ignored
+[2018.10.31-13.16.33:201][394]LogLevelTools: Warning: SecondWallBrush is already in the destination level so it was ignored
+[2018.10.31-13.16.33:201][394]LogLevelTools: Warning: SlopeBrush is already in the destination level so it was ignored
+[2018.10.31-13.16.33:243][394]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2018.10.31-13.17.08:566][453]LogSlate: Window '레벨 디테일' being destroyed
+[2018.10.31-13.17.08:570][453]LogSlate: Window '레벨 디테일' being destroyed
+[2018.10.31-13.17.42:875][752]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_Top_Auto47DC58E5D46371929DF2C348ED4EBA7CE.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_Top_Auto4.umap'
+[2018.10.31-13.17.42:940][752]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_GB_Auto45768267C44E85C440140968E8FEAF91C.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_GB_Auto4.umap'
+[2018.10.31-13.17.42:944][752]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.128
+[2018.10.31-13.17.42:944][752]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.128
+[2018.10.31-13.17.55:564][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage01/PNStage01_GB" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_GB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.31-13.17.55:652][816]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_GBA73AF9E64DAF895C97D87A9766196317.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_GB.umap'
+[2018.10.31-13.18.19:750][536]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2018.10.31-13.18.55:726][615]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.10.31-13.18.55:763][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.18.55:785][615]PIE: New page: PIE 세션: PNStage01_Top (2018. 11. 1. 오전 7:18:55)
+[2018.10.31-13.18.55:786][615]LogPlayLevel: Creating play world package: /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top
+[2018.10.31-13.18.55:789][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003395s)
+[2018.10.31-13.18.55:790][615]LogAIModule: Creating AISystem for world PNStage01_Top
+[2018.10.31-13.18.55:791][615]LogPlayLevel: PIE: World Init took: (0.001479s)
+[2018.10.31-13.18.55:791][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage01/PNStage01_Top.PNStage01_Top to /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top.PNStage01_Top (0.005040s)
+[2018.10.31-13.18.55:873][615]LogInit: XAudio2 using '스피커(SB Audigy)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.31-13.18.55:922][615]LogInit: FAudioDevice initialized.
+[2018.10.31-13.18.55:970][615]LogLoad: Game class is 'PNGameMode_C'
+[2018.10.31-13.18.55:982][615]LogWorld: Bringing World /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top.PNStage01_Top up for play (max tick rate 30) at 2018.10.31-22.18.55
+[2018.10.31-13.18.55:982][615]LogWorld: Bringing up level for play took: 0.000945
+[2018.10.31-13.18.55:997][615]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.31-13.18.56:018][615]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2018.10.31-13.18.56:025][615]PIE: /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top 에 대한 에디터에서 플레이 시작 시간: 0.188
+[2018.10.31-13.19.09:703][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.19.09:744][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.19.09:782][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.19.09:805][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.10.31-13.19.25:037][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage01/PNStage01_GB" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_GB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.31-13.19.25:125][481]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_GB6FD2F741461C704B8B37AEBC477B8C88.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_GB.umap'
+[2018.10.31-13.19.31:550][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage01/PNStage01_SM" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_SM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.31-13.19.31:605][672]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_SMA08CBAB74797B3526E7E98B0E4B130DD.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_SM.umap'
+[2018.10.31-13.19.41:359][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-13.19.43:383][ 24]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-13.19.43:435][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-13.19.44:134][ 44]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-13.19.44:168][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-13.19.46:151][101]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-13.19.49:634][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-13.19.49:734][204]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.10.31-13.19.49:766][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.19.49:766][204]PIE: New page: PIE 세션: PNStage01_Top (2018. 11. 1. 오전 7:19:49)
+[2018.10.31-13.19.49:766][204]LogPlayLevel: Creating play world package: /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top
+[2018.10.31-13.19.49:767][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001475s)
+[2018.10.31-13.19.49:768][204]LogAIModule: Creating AISystem for world PNStage01_Top
+[2018.10.31-13.19.49:768][204]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2018.10.31-13.19.49:768][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage01/PNStage01_Top.PNStage01_Top to /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top.PNStage01_Top (0.002545s)
+[2018.10.31-13.19.49:845][204]LogInit: XAudio2 using '스피커(SB Audigy)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.31-13.19.49:891][204]LogInit: FAudioDevice initialized.
+[2018.10.31-13.19.49:921][204]LogLoad: Game class is 'PNGameMode_C'
+[2018.10.31-13.19.49:929][204]LogWorld: Bringing World /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top.PNStage01_Top up for play (max tick rate 30) at 2018.10.31-22.19.49
+[2018.10.31-13.19.49:930][204]LogWorld: Bringing up level for play took: 0.000526
+[2018.10.31-13.19.49:945][204]PIE: /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top 에 대한 에디터에서 플레이 시작 시간: 0.108
+[2018.10.31-13.20.08:615][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.20.08:649][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.20.08:686][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.20.08:728][765]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.10.31-13.21.59:713][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-13.29.50:917][464]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_Top_Auto515ED55CA4BEAF774187A4D95A70D9344.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_Top_Auto5.umap'
+[2018.10.31-13.29.50:988][464]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_GB_Auto59F30A3534D14F5AB9D0B78873C9C6B66.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_GB_Auto5.umap'
+[2018.10.31-13.29.51:014][464]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_SM_Auto55995454041D13D1998C3C39285E17C4B.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_SM_Auto5.umap'
+[2018.10.31-13.29.51:019][464]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.170
+[2018.10.31-13.29.51:019][464]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.170
+[2018.10.31-14.05.30:613][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.06.08:594][666]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.06.14:210][825]LogEditor: Converting brush from Brush /Game/Maps/Stage01/PNStage01_GB.PNStage01_GB:PersistentLevel.PlatformBrush to BlockingVolume
+[2018.10.31-14.06.14:245][825]LogEditor: Converted: PlatformBrush to PlatformBrush
+[2018.10.31-14.06.14:245][825]EditorErrors: New page: 액터 다시붙이기
+[2018.10.31-14.06.42:839][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.07.11:405][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.07.21:435][833]LogActorFactory: Actor Factory created SM_Floor
+[2018.10.31-14.07.21:804][844]LogActorFactory: Actor Factory created SM_Floor
+[2018.10.31-14.07.28:319][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.08.00:958][  5]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor)
+[2018.10.31-14.08.09:682][262]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2)
+[2018.10.31-14.08.10:021][270]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor)
+[2018.10.31-14.08.59:665][734]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor18)
+[2018.10.31-14.09.00:039][743]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor20)
+[2018.10.31-14.09.00:782][763]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor19)
+[2018.10.31-14.09.01:253][775]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor17)
+[2018.10.31-14.09.11:760][ 85]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.09.11:760][ 85]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.09.13:826][147]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor30)
+[2018.10.31-14.09.14:166][155]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor29)
+[2018.10.31-14.09.14:713][169]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor31)
+[2018.10.31-14.09.15:184][181]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor32)
+[2018.10.31-14.09.43:454][  8]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.09.47:441][128]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.09.47:441][128]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.09.48:941][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor44)
+[2018.10.31-14.09.49:617][191]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.09.49:618][191]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.09.54:402][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.09.55:755][375]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.09.55:755][375]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.09.56:406][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.09.57:859][438]Cmd: STAT FPS
+[2018.10.31-14.10.00:093][505]Cmd: STAT FPS
+[2018.10.31-14.10.03:070][594]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.10.03:070][594]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.10.35:154][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.10.36:560][596]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.10.36:997][609]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.10.37:669][629]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.10.38:173][644]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.10.41:648][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-14.10.41:656][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-14.10.41:677][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-14.10.41:689][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-14.10.41:693][746]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.10.43:199][787]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.10.45:372][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-14.10.45:383][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-14.10.45:393][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-14.10.45:404][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-14.10.45:408][850]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.10.54:215][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.10.56:553][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.10.56:894][186]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.11.02:900][366]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.11.34:681][318]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.11.34:787][318]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_Top_Auto6B74B132D453FC70F1369FFB65D570333.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_Top_Auto6.umap'
+[2018.10.31-14.11.34:856][318]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_GB_Auto6A1931ECD4FBF4B5141DDBF929ADF3EB8.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_GB_Auto6.umap'
+[2018.10.31-14.11.34:932][318]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_SM_Auto623D987984C89414DCEBAE68D612AB057.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_SM_Auto6.umap'
+[2018.10.31-14.11.34:937][318]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.221
+[2018.10.31-14.11.34:937][318]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.221
+[2018.10.31-14.16.11:983][627]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.16.11:983][627]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.16.21:372][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.16.29:180][142]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (FirstWallBrush)
+[2018.10.31-14.16.29:229][142]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.16.30:928][192]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.16.30:928][192]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.16.31:295][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.16.50:166][720]LogSlate: Window '애셋을 다른 이름으로 저장' being destroyed
+[2018.10.31-14.16.52:091][778]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.16.52:091][778]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.16.52:124][778]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.16.59:633][  3]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.16.59:633][  3]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.17.00:718][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.17.06:786][217]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.17.06:801][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-14.17.06:812][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-14.17.06:824][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-14.17.06:835][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-14.17.09:490][285]LogSlate: Window '뷰포트 2' being destroyed
+[2018.10.31-14.17.10:521][314]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.17.11:493][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.17.11:561][345]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.17.11:561][345]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.17.11:931][356]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.17.12:031][359]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.17.12:031][359]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.17.19:290][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.17.20:394][607]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.17.24:216][722]LogEditorViewport: Clicking Background
+[2018.10.31-14.17.26:098][778]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.17.29:901][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.17.30:788][919]Cmd: MODE GRID=0
+[2018.10.31-14.17.31:739][947]Cmd: MODE GRID=1
+[2018.10.31-14.18.53:165][377]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.18.53:266][380]LogEditorViewport: Clicking Background
+[2018.10.31-14.18.54:433][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.18.59:081][551]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SecondWallBrush)
+[2018.10.31-14.19.00:792][599]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.19.02:998][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.19.04:741][717]LogEditorViewport: Clicking Background
+[2018.10.31-14.19.05:261][732]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.19.06:882][781]Cmd: STAT FPS
+[2018.10.31-14.19.09:126][848]Cmd: STAT FPS
+[2018.10.31-14.19.11:298][913]Cmd: STAT FPS
+[2018.10.31-14.19.11:801][928]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (PlatformBrush)
+[2018.10.31-14.19.11:801][928]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PlatformBrush)
+[2018.10.31-14.19.14:052][993]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.19.14:876][ 18]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.19.14:876][ 18]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.19.15:360][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.19.16:414][ 64]Cmd: STAT FPS
+[2018.10.31-14.19.16:783][ 75]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.10.31-14.19.16:783][ 75]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (NavMeshBoundsVolume)
+[2018.10.31-14.19.18:847][134]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.19.22:515][242]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.10.31-14.19.22:515][242]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (NavMeshBoundsVolume)
+[2018.10.31-14.19.23:127][260]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (FirstWallBrush)
+[2018.10.31-14.19.23:802][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.19.23:911][282]LogEditorViewport: Clicking Background
+[2018.10.31-14.19.24:419][297]LogEditorViewport: Clicking Background
+[2018.10.31-14.19.28:856][430]LogEditorViewport: Clicking on Actor (LMB): Brush (SecondWallBrush)
+[2018.10.31-14.19.28:856][430]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SecondWallBrush)
+[2018.10.31-14.19.29:189][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor43)
+[2018.10.31-14.19.29:423][445]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.10.31-14.19.30:348][471]LogEditorViewport: Clicking Background
+[2018.10.31-14.19.37:462][684]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (FirstWallBrush)
+[2018.10.31-14.19.37:462][684]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SecondWallBrush)
+[2018.10.31-14.19.37:462][684]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SlopeBrush)
+[2018.10.31-14.19.37:462][684]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SecondTunelBrush)
+[2018.10.31-14.19.37:462][684]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (NavMeshBoundsVolume)
+[2018.10.31-14.19.37:462][684]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (AtmosphericFog)
+[2018.10.31-14.19.37:463][684]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.19.37:463][684]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PlatformBrush)
+[2018.10.31-14.20.00:573][360]LogEditorViewport: Clicking Background
+[2018.10.31-14.20.00:987][372]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.20.03:206][437]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PlayerStart)
+[2018.10.31-14.20.03:206][437]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (FirstWallBrush)
+[2018.10.31-14.20.03:206][437]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (NavMeshBoundsVolume)
+[2018.10.31-14.20.03:206][437]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.20.03:206][437]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PlatformBrush)
+[2018.10.31-14.20.10:678][650]LogEditorViewport: Clicking Background
+[2018.10.31-14.20.13:331][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.20.40:712][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.20.54:171][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.21.04:949][269]LogEditorActor: Actor DirectionalLight2 is referenced by BP_Sky_Sphere.
+[2018.10.31-14.21.10:593][269]LogSlate: Window '메시지' being destroyed
+[2018.10.31-14.21.10:597][269]LogEditorActor: Deleted Actor: DirectionalLight
+[2018.10.31-14.21.10:636][269]LogEditorActor: Deleted 1 Actors (5.692 secs)
+[2018.10.31-14.21.11:353][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.21.49:727][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage01/PNStage01_GB" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_GB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.31-14.21.49:855][437]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_GB13BD3CA4422DD2EAC06F5FAB0259152F.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_GB.umap'
+[2018.10.31-14.22.04:864][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.22.45:191][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.22.46:426][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.22.46:929][142]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.22.47:135][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.22.51:553][281]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.22.51:553][281]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.22.52:343][304]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.22.56:133][418]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.22.56:133][418]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.23.04:401][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.23.19:666][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.23.25:239][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.24.16:071][808]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.24.16:877][831]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PlayerStart)
+[2018.10.31-14.24.16:877][831]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (FirstWallBrush)
+[2018.10.31-14.24.16:877][831]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (NavMeshBoundsVolume)
+[2018.10.31-14.24.16:878][831]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.24.16:878][831]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PlatformBrush)
+[2018.10.31-14.24.17:911][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.24.19:684][912]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.24.19:770][914]LogEditorViewport: Clicking Background
+[2018.10.31-14.24.21:394][962]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PlayerStart)
+[2018.10.31-14.24.21:394][962]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (FirstWallBrush)
+[2018.10.31-14.24.21:394][962]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (NavMeshBoundsVolume)
+[2018.10.31-14.24.21:394][962]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.24.21:394][962]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PlatformBrush)
+[2018.10.31-14.24.22:827][  2]LogEditorViewport: Clicking Background
+[2018.10.31-14.24.24:007][ 37]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PlayerStart)
+[2018.10.31-14.24.24:007][ 37]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (NavMeshBoundsVolume)
+[2018.10.31-14.24.24:007][ 37]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.24.24:007][ 37]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PlatformBrush)
+[2018.10.31-14.24.28:323][161]Cmd: TRANSACTION UNDO
+[2018.10.31-14.24.28:323][161]LogEditorTransaction: Undo 액터 회전
+[2018.10.31-14.24.28:334][161]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Stage01/PNStage01_SM.PNStage01_SM:PersistentLevel.SM_Floor7.StaticMeshComponent0) Component already registered.
+[2018.10.31-14.24.28:336][161]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Stage01/PNStage01_SM.PNStage01_SM:PersistentLevel.SM_Floor2.StaticMeshComponent0) Component already registered.
+[2018.10.31-14.24.28:338][161]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Stage01/PNStage01_SM.PNStage01_SM:PersistentLevel.SM_Floor11.StaticMeshComponent0) Component already registered.
+[2018.10.31-14.24.28:339][161]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Stage01/PNStage01_SM.PNStage01_SM:PersistentLevel.SM_Floor12.StaticMeshComponent0) Component already registered.
+[2018.10.31-14.24.28:343][161]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2018.10.31-14.24.28:426][161]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.31-14.24.28:426][161]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.31-14.24.28:426][161]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.31-14.24.34:884][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.24.38:497][427]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.31-14.24.38:531][428]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-14.24.38:826][435]LogEditorViewport: Clicking Background
+[2018.10.31-14.24.38:942][438]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-14.24.38:942][438]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-14.24.39:081][442]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-14.24.39:331][449]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.31-14.24.39:397][451]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.31-14.24.39:465][453]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.31-14.24.39:838][464]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.31-14.24.39:852][464]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PlayerStart)
+[2018.10.31-14.24.39:852][464]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (FirstWallBrush)
+[2018.10.31-14.24.39:852][464]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (NavMeshBoundsVolume)
+[2018.10.31-14.24.39:852][464]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.24.39:852][464]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PlatformBrush)
+[2018.10.31-14.24.40:486][480]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.31-14.24.40:505][480]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.31-14.24.40:576][482]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.31-14.24.41:337][504]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.31-14.24.41:509][509]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.31-14.24.41:509][509]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.31-14.24.42:065][525]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.31-14.24.42:072][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.24.42:640][542]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.31-14.24.42:944][551]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.31-14.24.43:756][575]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.10.31-14.24.43:756][575]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.10.31-14.24.43:756][575]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.10.31-14.24.43:756][575]MaterialEditorStats: Texture samplers: 4/16
+[2018.10.31-14.24.43:756][575]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.10.31-14.24.43:756][575]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-14.24.45:857][634]Cmd: TRANSACTION UNDO
+[2018.10.31-14.24.45:857][634]LogEditorTransaction: Undo 액터 회전
+[2018.10.31-14.24.45:880][634]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Stage01/PNStage01_SM.PNStage01_SM:PersistentLevel.SM_Floor18.StaticMeshComponent0) Component already registered.
+[2018.10.31-14.24.45:883][634]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Stage01/PNStage01_SM.PNStage01_SM:PersistentLevel.SM_Floor8.StaticMeshComponent0) Component already registered.
+[2018.10.31-14.24.45:886][634]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Stage01/PNStage01_SM.PNStage01_SM:PersistentLevel.SM_Floor95.StaticMeshComponent0) Component already registered.
+[2018.10.31-14.24.45:888][634]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Stage01/PNStage01_SM.PNStage01_SM:PersistentLevel.SM_Floor21.StaticMeshComponent0) Component already registered.
+[2018.10.31-14.24.45:889][634]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Stage01/PNStage01_SM.PNStage01_SM:PersistentLevel.SM_Floor88.StaticMeshComponent0) Component already registered.
+[2018.10.31-14.24.45:930][634]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2018.10.31-14.24.46:020][634]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.31-14.24.46:020][634]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.31-14.24.46:020][634]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.31-14.24.46:457][634]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.31-14.24.46:457][634]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-14.24.46:457][634]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-14.24.46:690][638]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-14.24.46:792][641]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-14.24.46:893][644]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.31-14.24.47:161][652]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.31-14.24.47:161][652]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.31-14.24.47:397][659]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.31-14.24.48:208][683]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.31-14.24.48:341][687]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.31-14.24.48:575][694]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.31-14.24.49:227][713]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.31-14.24.49:294][715]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.31-14.24.49:395][718]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.31-14.24.50:105][739]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.31-14.24.50:376][747]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.31-14.24.50:577][753]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.31-14.24.51:292][774]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.10.31-14.24.51:292][774]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.10.31-14.24.51:292][774]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.10.31-14.24.51:292][774]MaterialEditorStats: Texture samplers: 4/16
+[2018.10.31-14.24.51:292][774]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.10.31-14.24.51:292][774]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-14.24.58:677][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.25.06:092][215]Cmd: TRANSACTION UNDO
+[2018.10.31-14.25.06:092][215]LogEditorTransaction: Undo 회전 설정
+[2018.10.31-14.25.06:159][215]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2018.10.31-14.25.06:242][215]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.31-14.25.06:242][215]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.31-14.25.06:242][215]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.31-14.25.06:681][215]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.31-14.25.06:681][215]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-14.25.06:681][215]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-14.25.06:851][217]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.25.06:852][217]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.25.07:016][222]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-14.25.07:051][223]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-14.25.07:111][225]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.31-14.25.07:414][234]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.31-14.25.07:514][237]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.31-14.25.07:550][238]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.31-14.25.08:382][262]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.31-14.25.08:562][267]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.31-14.25.08:760][273]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.31-14.25.09:476][294]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.31-14.25.09:483][294]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.31-14.25.09:859][304]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.31-14.25.10:528][322]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.31-14.25.10:565][323]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.31-14.25.10:565][323]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.31-14.25.11:477][350]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.10.31-14.25.11:477][350]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.10.31-14.25.11:477][350]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.10.31-14.25.11:477][350]MaterialEditorStats: Texture samplers: 4/16
+[2018.10.31-14.25.11:477][350]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.10.31-14.25.11:477][350]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-14.25.21:470][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.25.26:789][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor19)
+[2018.10.31-14.27.28:930][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.27.29:878][490]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.29:878][490]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.30:544][510]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.30:544][510]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.31:678][544]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.31:678][544]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.31:744][546]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.31:744][546]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.34:145][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.27.42:080][856]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.42:080][856]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.42:313][863]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.42:313][863]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.42:580][871]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.42:580][871]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.42:914][881]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.42:914][881]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.42:947][881]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.27.43:367][894]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.43:367][894]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.43:467][897]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.43:467][897]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.43:701][904]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.43:701][904]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.43:734][905]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.43:734][905]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.45:867][969]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.45:867][969]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.45:901][970]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.45:901][970]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.46:134][977]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.46:134][977]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.46:168][978]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.46:168][978]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.46:434][986]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.46:434][986]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.51:602][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.27.53:200][189]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.53:201][189]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.53:268][191]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.53:268][191]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.53:501][198]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.53:501][198]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.53:567][200]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.53:567][200]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.54:067][215]Cmd: SELECT NONE
+[2018.10.31-14.27.55:009][243]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.55:009][243]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.55:045][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.27.55:698][263]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.55:698][263]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.56:165][277]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.56:165][277]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.27.56:200][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.27.57:753][324]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.27.57:753][324]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.28.01:753][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.28.03:520][497]Cmd: TRANSACTION UNDO
+[2018.10.31-14.28.03:520][497]LogEditorTransaction: Undo 폴더 생성
+[2018.10.31-14.28.03:524][497]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2018.10.31-14.28.03:605][497]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.31-14.28.03:605][497]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.31-14.28.03:605][497]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.31-14.28.04:349][505]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.31-14.28.04:416][507]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-14.28.04:654][514]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-14.28.04:721][516]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-14.28.04:754][517]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-14.28.04:958][523]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.31-14.28.04:992][524]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.31-14.28.05:024][525]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.31-14.28.05:228][531]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.31-14.28.05:633][543]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.31-14.28.05:633][543]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.31-14.28.05:837][549]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.31-14.28.06:315][563]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.31-14.28.06:315][563]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.31-14.28.06:345][564]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.31-14.28.06:756][576]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.31-14.28.07:023][584]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.31-14.28.07:057][585]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.31-14.28.07:613][601]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.10.31-14.28.07:613][601]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.10.31-14.28.07:613][601]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.10.31-14.28.07:613][601]MaterialEditorStats: Texture samplers: 4/16
+[2018.10.31-14.28.07:613][601]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.10.31-14.28.07:613][601]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-14.28.24:047][ 94]LogEditorViewport: Clicking on Actor (context menu): BlockingVolume (PlatformBrush)
+[2018.10.31-14.28.24:047][ 94]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PlatformBrush)
+[2018.10.31-14.28.24:078][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.28.24:697][113]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor36)
+[2018.10.31-14.28.24:765][113]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.28.49:431][851]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2018.10.31-14.28.58:060][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.29.13:872][572]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.29.13:872][572]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.29.13:906][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.29.14:593][592]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.29.14:593][592]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.29.56:454][435]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.29.56:454][435]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.30.04:260][597]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.30.04:260][597]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.30.43:065][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2018.10.31-14.30.44:220][793]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2018.10.31-14.30.45:515][829]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.30.45:515][829]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.30.45:784][837]Cmd: SELECT NONE
+[2018.10.31-14.31.49:416][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.32.23:967][771]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_Top_Auto71203849043955FEF62667BB01276C7E4.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_Top_Auto7.umap'
+[2018.10.31-14.32.24:039][771]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_GB_Auto714B18D8B413F7E339DA0478A1E22214D.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_GB_Auto7.umap'
+[2018.10.31-14.32.24:172][771]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_SM_Auto72EA538FF4296B4DD923BFB994CB225C8.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_SM_Auto7.umap'
+[2018.10.31-14.32.24:177][771]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.279
+[2018.10.31-14.32.24:177][771]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.279
+[2018.10.31-14.32.56:949][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.33.14:202][268]LogEditor: Converting brush from Brush /Game/Maps/Stage01/PNStage01_GB.PNStage01_GB:PersistentLevel.FirstWallBrush to BlockingVolume
+[2018.10.31-14.33.14:236][268]LogEditor: Converted: FirstWallBrush to FirstWallBrush
+[2018.10.31-14.33.14:236][268]EditorErrors: New page: 액터 다시붙이기
+[2018.10.31-14.33.31:467][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.33.42:455][106]LogActorFactory: Actor Factory created SM_Wall
+[2018.10.31-14.33.43:426][135]LogActorFactory: Actor Factory created SM_Wall
+[2018.10.31-14.33.50:140][332]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.34.22:317][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.34.30:798][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.34.41:503][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.35.28:966][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.35.42:872][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.35.44:410][738]LogEditorActor: Deleted Actor: DirectionalLight
+[2018.10.31-14.35.44:448][738]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2018.10.31-14.35.46:339][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall)
+[2018.10.31-14.36.16:094][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.36.17:636][724]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.36.18:358][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.36.18:912][761]LogEditorViewport: Clicking Background
+[2018.10.31-14.36.22:622][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.36.36:925][295]LogEditorViewport: Clicking Background
+[2018.10.31-14.36.37:862][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.36.49:732][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.36.53:096][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.37.30:372][893]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.37.30:372][893]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (FirstWallBrush)
+[2018.10.31-14.37.41:017][200]LogEditorViewport: Clicking Background
+[2018.10.31-14.37.42:425][242]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.37.43:259][266]LogEditorViewport: Clicking Background
+[2018.10.31-14.37.44:234][295]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.37.47:954][402]LogEditorViewport: Clicking Background
+[2018.10.31-14.37.48:497][418]LogEditorViewport: Clicking Background
+[2018.10.31-14.37.48:896][430]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (FirstWallBrush)
+[2018.10.31-14.37.48:897][430]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (FirstWallBrush)
+[2018.10.31-14.37.51:863][519]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (FirstWallBrush)
+[2018.10.31-14.37.51:863][519]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (FirstWallBrush)
+[2018.10.31-14.37.52:363][534]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (FirstWallBrush)
+[2018.10.31-14.37.52:363][534]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (FirstWallBrush)
+[2018.10.31-14.37.53:835][578]LogEditorViewport: Clicking Background
+[2018.10.31-14.37.54:102][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall16)
+[2018.10.31-14.37.57:772][694]LogEditorViewport: Clicking Background
+[2018.10.31-14.37.58:713][722]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PlayerStart)
+[2018.10.31-14.37.58:714][722]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.37.58:714][722]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (FirstWallBrush)
+[2018.10.31-14.38.02:085][817]LogEditorViewport: Clicking Background
+[2018.10.31-14.38.03:162][849]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SecondWallBrush)
+[2018.10.31-14.38.03:162][849]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.38.03:162][849]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (FirstWallBrush)
+[2018.10.31-14.38.06:921][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.38.12:423][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.38.29:313][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall36)
+[2018.10.31-14.38.33:095][737]Cmd: TRANSACTION UNDO
+[2018.10.31-14.38.33:096][737]LogEditorTransaction: Undo 액터 이동
+[2018.10.31-14.38.33:100][737]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2018.10.31-14.38.33:183][737]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.31-14.38.33:183][737]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.31-14.38.33:183][737]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.31-14.38.33:617][737]Cmd: TRANSACTION UNDO
+[2018.10.31-14.38.33:618][737]LogEditorTransaction: Undo 액터 클릭
+[2018.10.31-14.38.33:646][737]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2018.10.31-14.38.33:878][737]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.31-14.38.33:878][737]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.31-14.38.34:178][737]Cmd: TRANSACTION UNDO
+[2018.10.31-14.38.34:178][737]LogEditorTransaction: Undo 액터 이동
+[2018.10.31-14.38.34:185][737]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2018.10.31-14.38.34:272][737]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.31-14.38.34:272][737]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.31-14.38.34:413][737]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.31-14.38.34:717][737]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.31-14.38.34:717][737]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-14.38.34:717][737]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-14.38.34:718][737]LogEditorViewport: Clicking Background
+[2018.10.31-14.38.34:726][737]Cmd: TRANSACTION UNDO
+[2018.10.31-14.38.34:726][737]LogEditorTransaction: Undo 배경 클릭
+[2018.10.31-14.38.34:756][737]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2018.10.31-14.38.34:995][737]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.31-14.38.35:141][737]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.31-14.38.35:141][737]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.31-14.38.35:302][737]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.10.31-14.38.35:302][737]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (NavMeshBoundsVolume)
+[2018.10.31-14.38.35:478][737]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.31-14.38.35:478][737]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.31-14.38.35:481][737]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.31-14.38.35:776][746]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.31-14.38.36:014][753]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.31-14.38.36:133][756]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.31-14.38.36:264][760]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.31-14.38.36:419][765]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.31-14.38.36:600][770]LogEditorViewport: Clicking Background
+[2018.10.31-14.38.36:605][770]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.31-14.38.37:161][787]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.31-14.38.37:296][791]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.31-14.38.37:436][795]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.31-14.38.37:480][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall36)
+[2018.10.31-14.38.38:014][810]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.31-14.38.38:116][813]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.31-14.38.38:284][818]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.31-14.38.38:362][820]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.38.38:833][833]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.31-14.38.38:966][837]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.31-14.38.39:205][844]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.31-14.38.39:994][867]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.10.31-14.38.39:994][867]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.10.31-14.38.39:994][867]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.10.31-14.38.39:994][867]MaterialEditorStats: Texture samplers: 4/16
+[2018.10.31-14.38.39:994][867]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.10.31-14.38.39:994][867]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.31-14.38.43:662][976]LogEditorViewport: Clicking Background
+[2018.10.31-14.38.45:372][ 27]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.38.48:576][121]LogEditorViewport: Clicking Background
+[2018.10.31-14.38.49:386][145]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (FirstWallBrush)
+[2018.10.31-14.38.49:386][145]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (FirstWallBrush)
+[2018.10.31-14.38.50:853][189]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.38.54:621][297]LogEditorViewport: Clicking Background
+[2018.10.31-14.38.55:334][318]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.39.05:896][634]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.39.06:005][637]LogEditorViewport: Clicking Background
+[2018.10.31-14.39.06:772][660]LogEditorViewport: Clicking Background
+[2018.10.31-14.39.06:838][662]LogEditorViewport: Clicking Background
+[2018.10.31-14.39.07:538][683]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.39.08:423][708]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.39.08:828][719]LogEditorViewport: Clicking Background
+[2018.10.31-14.39.08:904][721]LogEditorViewport: Clicking Background
+[2018.10.31-14.39.09:438][737]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.39.09:947][752]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.39.10:420][765]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.39.11:024][782]LogEditorViewport: Clicking Background
+[2018.10.31-14.39.12:734][833]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.39.13:441][853]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.39.14:551][885]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.39.18:863][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-14.39.18:965][ 17]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.39.18:965][ 17]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.39.19:563][ 35]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.39.19:563][ 35]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.39.19:729][ 40]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.39.19:729][ 40]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.39.20:002][ 48]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.39.20:002][ 48]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.39.20:302][ 57]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.31-14.39.20:302][ 57]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.39.33:040][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.39.40:624][666]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PlayerStart)
+[2018.10.31-14.39.40:624][666]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SecondWallBrush)
+[2018.10.31-14.39.40:624][666]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (AtmosphericFog)
+[2018.10.31-14.39.40:624][666]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Sky_Sphere)
+[2018.10.31-14.39.40:624][666]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (DirectionalLight)
+[2018.10.31-14.39.40:624][666]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (FirstWallBrush)
+[2018.10.31-14.39.44:531][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.39.48:346][891]LogEditorViewport: Clicking Background
+[2018.10.31-14.39.48:756][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall30)
+[2018.10.31-14.39.50:802][962]Cmd: POLY SELECT MEMORY RECALL
+[2018.10.31-14.39.51:741][990]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2018.10.31-14.39.55:298][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-14.40.23:422][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage01/PNStage01_SM" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_SM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.31-14.40.23:635][928]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_SM738DD04343ADB2B58ACF6FAA8381FB2F.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_SM.umap'
+[2018.10.31-14.40.47:423][101]LogSlate: Window '콘텐츠 저장' being destroyed
+[2018.10.31-14.40.47:449][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Floor" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/SM_Floor.uasset" SILENT=true
+[2018.10.31-14.40.47:496][101]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/SM_Floor9F1706104E48F53B0983679864228895.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Architecture/SM_Floor.uasset'
+[2018.10.31-14.40.47:718][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage01/PNStage01_GB" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_GB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.31-14.40.47:825][101]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_GBB171E9024099FCE461D4278A1E7C3C6A.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_GB.umap'
+[2018.10.31-14.40.47:837][101]LogFileHelpers: Saving map 'PNStage01_GB' took 0.316
+[2018.10.31-14.40.48:038][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage01/PNStage01_Top" FILE="D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.31-14.40.48:113][101]LogSavePackage: Moving 'D:/Developer/Personal/unreal/PaperNinja/Saved/PNStage01_TopD6B897DE4FE356BD322C0A8F995AD061.tmp' to 'D:/Developer/Personal/unreal/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap'
+[2018.10.31-14.40.48:171][101]LogFileHelpers: Saving map 'PNStage01_Top' took 0.330
+[2018.10.31-14.40.49:710][147]LogSlate: Window 'SM_Floor' being destroyed
+[2018.10.31-14.40.49:714][147]LogSlate: Window 'SM_Floor' being destroyed
+[2018.11.01-13.57.53:750][ 70]LogHttp: Warning: 000001BFC9F17880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.01-13.57.53:750][ 70]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 0 (Connection 229 seems to be dead!)
+[2018.11.01-13.57.53:750][ 70]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 1 (Closing connection 229)
+[2018.11.01-13.57.53:750][ 70]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.01-13.57.53:750][ 70]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 3 (Closing connection 230)
+[2018.11.03-03.56.39:100][845]LogHttp: Warning: 000001BFC9F17880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.03-03.56.39:101][845]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1bfe8d5bfa0 [can pipeline])
+[2018.11.03-03.56.39:101][845]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 1 (Re-using existing connection! (#279) with host datarouter.ol.epicgames.com)
+[2018.11.03-03.56.39:101][845]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.7.217.165) port 443 (#279))
+[2018.11.03-03.56.39:101][845]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 3 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10053)
+[2018.11.03-03.56.39:101][845]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2018.11.03-03.56.39:101][845]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 5 (Closing connection 279)
+[2018.11.03-03.56.39:101][845]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 6 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4831ED5C-4062-821F-3A3C-7197994A3C45%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=e5d532f14a368e4a543f8c88f4780a98%7C4644f0c96d0c467a8374464363dfab38%7C78a3f06b-a0c0-4f14-9a3a-322b39d9b778&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.11.03-03.56.39:101][845]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 7 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.03-03.56.39:101][845]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 8 (Closing connection 280)
+[2018.11.03-08.53.16:208][ 87]LogHttp: Warning: 000001BFC9F17880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.03-08.53.16:208][ 87]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 0 (Connection 283 seems to be dead!)
+[2018.11.03-08.53.16:208][ 87]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 1 (Closing connection 283)
+[2018.11.03-08.53.16:208][ 87]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.11.03-08.53.16:208][ 87]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.03-08.53.16:208][ 87]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 4 (Closing connection 284)
+[2018.11.04-15.11.19:857][835]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.04-15.11.19:857][835]LogHttp: Warning: 000001BFC9F17880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.04-15.11.19:857][835]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 0 (Connection 305 seems to be dead!)
+[2018.11.04-15.11.19:857][835]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 1 (Closing connection 305)
+[2018.11.04-15.11.19:857][835]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.11.04-15.11.19:857][835]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.04-15.11.19:857][835]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 4 (Closing connection 306)
+[2018.11.09-01.04.33:229][701]LogHttp: Warning: 000001BFC9F17880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.09-01.04.33:938][701]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1bfe8d5bfa0 [can pipeline])
+[2018.11.09-01.04.33:938][701]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 1 (Re-using existing connection! (#366) with host datarouter.ol.epicgames.com)
+[2018.11.09-01.04.33:938][701]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.164.240.160) port 443 (#366))
+[2018.11.09-01.04.33:940][701]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 3 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10053)
+[2018.11.09-01.04.33:940][701]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2018.11.09-01.04.33:940][701]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 5 (Closing connection 366)
+[2018.11.09-01.04.33:940][701]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 6 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4831ED5C-4062-821F-3A3C-7197994A3C45%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=e5d532f14a368e4a543f8c88f4780a98%7C4644f0c96d0c467a8374464363dfab38%7C78a3f06b-a0c0-4f14-9a3a-322b39d9b778&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.11.09-01.04.33:940][701]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 7 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.09-01.04.33:941][701]LogHttp: Warning: 000001BFC9F17880: libcurl info message cache 8 (Closing connection 367)
